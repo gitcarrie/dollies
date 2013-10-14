@@ -1,0 +1,418 @@
+______ - 	decade line
+______ >> dollie year line
+______ .	photo1 image name TAB caption TAB photo2 (when vertical pics)
+______	Note: an extra tab is needed at the end of each line...
+______ R	marker for reunion pics for past section
+
+
+
+-1950------------------------------------------------------------------------------------------------------------------
+	
+-1960------------------------------------------------------------------------------------------------------------------
+		
+-1970------------------------------------------------------------------------------------------------------------------
+
+>>0	mainphotos
+.	2.jpg	(1971 Rose Bowl Parade)	x	
+.	5.jpg	(Rose Bowl Sideline, 1971)	x	
+.	1.jpg	(Jeannette, Ken Peterson, Mary, Susie, Irene, Geordie Lawry, and Susan)	x	
+.	1b.jpg	(1970-1971 Stanford Dollies)	x		
+.	5t.jpg	(Left: Irene Maharam Boyd , Right: Mary Hernandez Gass)	2t.jpg	
+.	3t.jpg	(Left: Susie Peterson , Right: Jeannette Jones Heidrich)	4t.jpg	
+.	1t.jpg	(Susan Taylor)	x	
+.	4.jpg	(1970-1971 Dollies, Poolside)	x	
+.	1s.jpg	(Reunion in Hawaii, 2006)	x	
+.	2s.jpg	(1970-1971 Dollies Reunion, 2009 - Irene, Mary, Susan, and Jeannette)	x	
+.	7.jpg	(Irene, Jeannette, Susan, Mary)	x	
+.	6.jpg	(2010 LSJUMB Reunion - Mary, Irene, Jeannette)	x	
+
+
+>>2	mainphotos	
+.	3.jpg	(Susan, Charmaine, Kerry, Irene - Banner -  &copy; Alan Mela)	x	
+.	1_t.jpg	(Left: Charmaine - swinging an axe to help bring down the original Shak - &copy; Alan Mela<br>Right: Irene Balcar - Mings Restaurant - &copy; Alan Mela)	2_t.jpg	
+.	1.jpg	(Charmaine, Susan, and Irene - Disneyland -  &copy; Alan Mela 1972)	x	
+.	4_t.jpg	(Left: Susan , Right: Kerry - &copy; Alan Mela 1972)	3_t.jpg	
+.	2.jpg	(Kerry, Charmaine, Susan, Irene  - &copy; Alan Mela 1972)	x	
+
+>>3	mainphotos	
+.	1.jpg	(Linda T, Linda J, Stephanie, Jackie, Marcella, with DM Buzz Tompson - &copy; Alan Mela)	x	
+.	1_t.jpg	(Left: Jacki Nelson; Right: Linda Thomas - &copy; Alan Mela 1973)	2_t.jpg	
+.	2.jpg	(Football Halftime with Band - &copy; Alan Mela 1973)	x	
+.	3_t.jpg	(Left: Stephanie; Right: Linda (foreground), Stephanie (background) - &copy; Alan Mela 1973)	4_t.jpg	
+
+>>4	mainphotos	
+.	1.jpg	(Heading down ramp to football field - &copy; Alan Mela)	x	
+.	3_t.jpg	(Left: Linda Buddenberg with Manger Ken Blumberg; Right: Hilda - &copy; Alan Mela)	4_t.jpg	
+.	2.jpg	(Terry, Loretta, Linda, Denise, Hilda - &copy; Alan Mela)	x	
+.	3.jpg	(Terry and Loretta - &copy; Alan Mela)	x	
+.	4.jpg	(Hilda, Loretta, Linda, Terry, Denise - Coliseum - &copy; Alan Mela)	x	
+.	5_t.jpg	(Left: Denise; Right: Loretta - &copy; Alan Mela)	6_t.jpg	
+.	6.jpg	(Terry - &copy; Alan Mela)	x	
+.	5.jpg	(Hilda, Linda, Loreta, Terry, and Denise - Cal - &copy; Alan Mela)	x	
+.	7.jpg	(In Shack II (Bunker Shak) - &copy; Alan Mela)	x	
+.	8.jpg	(Following manager Norm Haleen into Big Game rally at the Fairmont - &copy; Alan Mela)	x	
+.	1_t.jpg	(Left: Denise; Right: Terry - &copy; Alan Mela )	2_t.jpg	
+.	9.jpg	("UGLY" Library Rally - &copy; Alan Mela, 1974)	x	
+.	10.jpg	(Football Rank Up, September 1974 - &copy; Alan Mela)	x	
+
+>>5	mainphotos		
+.	9.jpg	(Bonnie McColl, Toni Hunter, ...)<br>All photographs on this page &copy; Alan Mela, 1974-75	x	
+.	9_t.jpg	x	8_t.jpg	
+.	8.jpg	(Bonnie)	x	
+.	7.jpg	(Toni)	x	
+.	6.jpg	(Terry)	x	
+.	7_t.jpg	(Left: Kathy; Right: Linda)	6_t.jpg	
+.	5.jpg	x	x	
+.	4.jpg	x	x	
+.	5_t.jpg	x	4_t.jpg	
+.	3.jpg	x	x	
+.	2.jpg	(Terry, Hal Michelson)	x	
+.	1.jpg	x	x	
+.	3_t.jpg	All photographs on this page &copy; Alan Mela, 1974-75	x	
+.	13.jpg	(Rally in Washington DC, September 1975 - &copy; Alan Mela)	x	
+.	14.jpg	(Rally in Washington DC, September 1975 - &copy; Alan Mela)	x	
+.	15.jpg	(Marching into the Football Stadium, October 1975 - &copy; Alan Mela)	x	
+.	16.jpg	(Marching into the Cal Football Game, November 1975 - &copy; Alan Mela)	x	
+
+>>6	mainphotos		
+.	1.jpg	All photographs on this page &copy; Alan Mela, 1976-77	x	
+.	2.jpg	x	x	
+.	3.jpg	x	x	
+.	4.jpg	x	x	
+.	5.jpg		x	
+.	13.jpg	(Carla)	x	
+.	6.jpg	x	x	
+.	1_t.jpg	x	2_t.jpg	
+.	7.jpg	x	x	
+.	8.jpg	(Marcella)	x	
+.	9.jpg	x	x	
+.	10.jpg	(LA Coliseum tunnel entry)	x	
+.	11.jpg	x	x	
+.	12.jpg	x	x	
+.	14.jpg	(Lynn, Carla, Cathie, Heidi)<br><br>All photographs on this page &copy; Alan Mela, 1976-77 	x	
+
+>>7	mainphotos
+.	1.jpg	(&copy; Alan Mela, 1977-78)	x	
+.	9_t.jpg	(&copy; Alan Mela, 1977-78)	10_t.jpg	
+.	2.jpg	(&copy; Alan Mela, 1977-78)	x	
+.	3.jpg	(Stanford Sierra Camp - &copy; Alan Mela, 1977)	x	
+.	4.jpg	(&copy; Alan Mela, 1977-78)	x	
+.	1_t.jpg	(&copy; Alan Mela, 1977-78)	2_t.jpg	
+.	5.jpg	(&copy; Alan Mela, 1977-78)	x	
+.	6.jpg	(&copy; Alan Mela, 1977-78)	x	
+.	7.jpg	(&copy; Alan Mela, 1977-78)	x	
+.	3_t.jpg	(Left: Elena and Jane - &copy; Alan Mela, 1977-78)	4_t.jpg	
+.	8.jpg	(&copy; Alan Mela, 1977-78)	x	
+.	9.jpg	(&copy; Alan Mela, 1977-78)	x	
+.	10.jpg	(Elena - &copy; Alan Mela, 1977-78)	x	
+.	5_t.jpg	(&copy; Alan Mela, 1977-78)	6_t.jpg	
+.	11.jpg	(&copy; Alan Mela, 1977-78)	x	
+.	12.jpg	(&copy; Alan Mela, 1977-78)	x	
+.	7_t.jpg	(Left: Elena - &copy; Alan Mela, 1977-78)	8_t.jpg	
+.	13.jpg	(&copy; Alan Mela, 1977-78)	x	
+.	14.jpg	(&copy; Alan Mela, 1977-78)	x	
+.	15.jpg	(&copy; Robby Beyers, 1977)	x	
+
+>>8	mainphotos	
+.	1.jpg	(Football Halftime, 1978 - &copy; Robby Beyers)	x	
+.	2.jpg	(Football Postgame, 1978 - &copy; Allen Edwards)	x	
+.	3.jpg	(Football Postgame, 1978 - &copy; Allen Edwards)	x	
+.	4.jpg	(Jonrie, with an excellent Horse Dismount, 1978 - &copy; Allen Edwards)	x	
+.	1_t.jpg	(Gayle McGinnis - &copy; Robby Beyers)	x	
+
+>>9	mainphotos	
+.	1.jpg	(Stanford Ties U$C - &copy; Robby Beyers)	x	
+.	1_t.jpg	(Wendy Scroggin - &copy; Robby Beyers)	x	
+.	2.jpg	(Football Postgame - &copy; Allen Edwards)	x	
+.	3.jpg	(Football Defeat - &copy; Allen Edwards)	x	
+	
+
+-1980------------------------------------------------------------------------------------------------------------------
+
+>>0	mainphotos	
+.	1.jpg	(Band on Parade - &copy; Robby Beyers)	x	
+.	2.jpg	(Lenita - Marching into the Football Stadium - &copy; Robby Beyers)	x	
+
+>>1	mainphotos		
+.	3.jpg	(Entering the Stadium, Big Game - &copy; Robby Beyers)	x	
+.	2.jpg	(Big Game - &copy; Robby Beyers)	x	
+.	1.jpg	(&copy; Robby Beyers)	x	
+
+>>2	mainphotos	
+.	image3.jpg	(&copy; Robby Beyers)	x	
+.	4.jpg	(Stanford Dollies and Football Players - &copy; Robby Beyers)	x	
+.	5.jpg	(Big Game, Year of "The Play" - &copy; Robby Beyers)	x	
+.	6.jpg	(Stanford Basketball Game, Winter 1983 - &copy; Robby Beyers)	x	
+.	image2.jpg	(Dollie Room Dedication to Diana Dobbs, 2007 - Gina, Melinda, Sue, and Betsy <br> with their children, and Diana's son - &copy; Robby Beyers)	x	
+.	image1.jpg	(Dollie Room Dedication to Diana Dobbs <br>Gina, Melinda, Sue, and Betsy - &copy; Robby Beyers)	x	
+.	1_t.jpg	(Diana Dobbs, 1982 - &copy; Robby Beyers)	x	
+
+>>3	main	
+.	1.jpg	(Rose Bowl Kicks - &copy; Robby Beyers)	x	
+
+>>4	mainphotos	
+.	1.jpg	(Football Game - &copy; Robby Beyers)	x	
+.	1_t.jpg	(Monica Lytle, Fun with Poms - &copy; Robby Beyers)	2_t	
+
+>>5	mainphotos
+.	1.jpg	(ARN Jump - &copy; Robby Beyers)	x	
+.	2.jpg	(Rank Up, Football 1985 - &copy; Robby Beyers)	x	
+.	1_t.jpg	(Arija Bareikis - Left: Football, Right: In Japan - &copy; Robby Beyers)	2_t.jpg		Note: there is also a 3_t but will wait till another pic
+.	3.jpg	(Big Game 1985 - &copy; Robby Beyers)	x	
+.	4.jpg	(Combined 85/86 and 86/87 Dollies in Japan, 1986 - &copy; Robby Beyers)	x	
+
+>>6	mainphotos	
+.	1.jpg	(Football, 1986 - &copy; Robby Beyers)	x	
+.	2.jpg	(Big Game, 1986 - &copy; Robby Beyers)	x	
+.	3.jpg	(Combined 85/86 and 86/87 Dollies in Japan, 1986 - &copy; Robby Beyers)	x	
+	
+>>7	mainphotos
+.	1.jpg	(Big Game, 1987 - &copy; Robby Beyers)	x	
+.	1_t.jpg	(Anne Longo - Left: Football Game, Right: Catwoman - &copy; Robby Beyers)	2_t.jpg	
+
+>>8	mainphotos	
+.	1.jpg	(Patti, Rachel, Shannon, Sheeri, Marsi - &copy; Robby Beyers)	x	
+.	2.jpg	(Rachel, Shannon, Drum Major Dylan, Patti, Marsi, Sheeri - &copy; Robby Beyers)	x	
+.	3.jpg	(Big Game at Cal, 1988 - Rachel, Patti, Shannon, Sheeri, Marsi - &copy; Robby Beyers)	x	
+.	4.jpg	(Big Game at Cal Superwomen, 1988 - Rachel, Sheeri, Patti, Marsi, Shannon - &copy; Robby Beyers)	x	
+
+>>9	mainphotos	
+.	2.jpg	(Big Game Flapper Girls, 1989 - Meghan, Dionn, Emily, Mary, Julie - &copy; Robby Beyers)	x	
+.	1_t.jpg	(Big Game Flapper Girls, 1989 - Left: Full group, Right: Dionn Stewart - &copy; Robby Beyers)	2_t	
+.	3.jpg	(Meghan, Dionn, Emily, Mary, Julie)	x	
+.	1.jpg	(89/90 Dollie Family Reunion, 17 years and 14 kids later - Dionn, Emily, Mary, Meghan, Julie)	x	
+
+-1990------------------------------------------------------------------------------------------------------------------
+
+>>0	mainphotos	
+.	2.jpg	(&copy; Robby Beyers)	x	
+.	3.jpg	(&copy; Robby Beyers)	x	
+.	1.jpg	(Big Game, 1987 - &copy; Robby Beyers)	x	
+
+>>1	mainphotos	
+.	1.jpg	(Football Flag Girls - &copy; Robby Beyers)	x	
+.	2.jpg	(Big Game Jeanies, 1991 - &copy; Robby Beyers)	x	
+.	3.jpg	(Football, 1991)	x	
+
+>>2	mainphotos
+.	1.jpg	(Big Game Cavewomen, 1992 - &copy; Robby Beyers)	x	
+.	1_t.jpg	(Michelle Avrill - &copy; Robby Beyers)	x	
+
+>>3	mainphotos	
+.	2.jpg	(Football, 1993 - &copy; Robby Beyers)	x	
+.	1.jpg	(Big Game Egyptians, 1993 - &copy; Robby Beyers)	x	
+.	1_t.jpg	(Big Game, 1993 - Sangini Majmudar - &copy; Robby Beyers)	x	
+
+>>4	mainphotos	
+.	1.jpg	(Football, 1994 - &copy; Robby Beyers)	x	
+.	4.jpg	(Jenny Nelson, Bill Tell Cowboy - &copy; Robby Beyers)	x	
+.	2.jpg	(Big Game Harley Davidson Girls, 1994 - &copy; Robby Beyers)	x	
+.	3.jpg	(Big Game Harley Davidson Girls, 1994 - &copy; Robby Beyers)	x	
+.	1_t.jpg	(Left: Big Game, Right: Vanessa Arrington - &copy; Robby Beyers)	2_t	
+
+>>5	mainphotos	
+.	image9_copy.jpg	x	x			
+.	image2.jpg	x	x	
+.	image3.jpg	x	x	
+.	image4.jpg	x	x	
+.	5.jpg	(Football, 1995)	x	
+.	image6.jpg	x	x	
+.	image7.jpg	(Big Game Devils, 1995)	x	
+.	12.jpg	(Big Game Devils, 1995 - &copy; Robby Beyers)	x	
+.	image8.jpg	x	x	
+.	1.jpg	(1995-1996 Band Shak Dollie Sign)	x	
+.	2.jpg	x	x	
+
+>>6	mainphotos	
+.	1.jpg	(Football, 1996 - &copy; Robby Beyers)	x	
+.	2.jpg	(Big Game Boxers, 1996 - &copy; Robby Beyers)	x	
+.	3.jpg	(Dollies and Barnes Cruise on the Electric Couch - &copy; Robby Beyers)	x	
+.	4.jpg	(Curious? Dial 1-800-Couch - &copy; Robby Beyers)	x	
+
+>>7	mainphotos	
+.	3.jpg	(Football, 1997 - &copy; Robby Beyers)	x	
+.	4.jpg	(Big Game Little Red Riding Hood, 1997 - &copy; Robby Beyers)	x	
+.	image1.jpg	(Basketball Final Four, 1998)	x	
+.	image2.jpg	(Basketball, 1998)	x	
+
+>>8	mainphotos		
+.	image2.jpg	x	x	
+.	image1.jpg	x	x	
+.	4.jpg	(Football, 1998 - &copy; Robby Beyers)	x	
+.	3.jpg	(Big Game Costumes, 1998 - &copy; Robby Beyers)	x	
+		
+>>9	mainphotos	
+.	image1.jpg	(Posing with the roses at the Rose Bowl in Pasadena, 1999)	x		
+.	8.jpg	(Rose Bowl in Pasadena, 1999 - &copy; Robby Beyers)	x	
+.	9.jpg	(Dollies and Drum Major Tanicia at the Rose Bowl, 1999 - &copy; Robby Beyers)	x	
+.	image2.jpg	(Rally!)	x	
+.	5.jpg	(Big Game Cops, 1999 - &copy; Robby Beyers)	x		
+.	6.jpg	(Big Game Cops, 1999 - &copy; Robby Beyers)	x		
+.	7.jpg	(Big Game Cops, 1999 - &copy; Robby Beyers)	x		
+.	1_t.jpg	(Rhiannon Meier - &copy; Robby Beyers)	2_t	
+.	image3.jpg	(Big Game 1999)	x	
+.	image4.jpg	x	x		
+
+
+-2000------------------------------------------------------------------------------------------------------------------
+
+>>0	mainphotos	
+.	1.jpg	(Football, 2000 - &copy; Robby Beyers)	x	
+.	2.jpg	(Big Game Nurses, 2000 - &copy; Robby Beyers)	x	
+
+>>1	mainphotos	
+.	1.jpg	(Football, 2001 - &copy; Robby Beyers)	x	
+.	2.jpg	(Big Game Wizard of Oz, 2001 - &copy; Robby Beyers)	x	
+.	3.jpg	(Big Game Wizard of Oz, 2001 - Lauren (Toto), Emma (Tin Man), Amy (Dorthy), <br>Veronica (Glenda), Nikki (Scarecrow) - &copy; Robby Beyers)	x	
+.	1_t.jpg	(Emma James the Tinman - Big Game - &copy; Robby Beyers)	2_t	
+
+>>2	mainphotos	
+.	5.jpg	(Football, 2002 - &copy; Robby Beyers)	x	
+.	4.jpg	(Honkey Tonk, 2002 - &copy; Robby Beyers)	x	
+.	3.jpg	(Big Game Spanish Dancers, 2002 - &copy; Robby Beyers)	x	
+.	image3.jpg	(Malia's Pre-Wedding festivities, Summer 2006)	x		
+.	image2.jpg	(Malia's Wedding, Dollie Bridesmaids - Summer 2006)	x	
+.	1_t	(Malia's Wedding, Bride and Groom! - Summer 2006)	x	
+
+>>3	mainphotos		
+.	image3.jpg	(Post - Dollie Splash 2003)	x			
+.	image4.jpg	(Football 2003)	x	
+.	image5.jpg	(ARN - Football 2003)	x	
+.	9.jpg	(Football, 2003 - &copy; Robby Beyers)	x	
+.	image8.jpg	(Gaities - 2003)	x	
+.	10.jpg	(Big Game St. Pauli Girls, 2003 - &copy; Robby Beyers)	x	
+.	2_t.jpg	(Big Game, 2003 - Left: Clare Tobin, Right: Stanford Beer S - &copy; Robby Beyers)	3_t	
+.	image7.jpg	(Big Game 2003)	x	
+.	image2.jpg	(Basketball Tournament - Seattle Space needle 2004)	x	
+.	image1.jpg	(Basketball Tournament - 2004)	x	
+.	image6.jpg	(Fountain Rally 2004)	x	
+
+>>4	mainphotos		
+.	image1.jpg	(Dollie Splash 2004)	x			
+.	20.jpg	(Marching to the Stadium - Football 2004 - &copy; Robby Beyers)	x	
+.	21.jpg	(Football 2004 "Mr. Jones" - &copy; Robby Beyers)	x	
+.	22.jpg	(Honkey Tonk for 2004 "Vote for Kerry/Edwards" Half Time Show - &copy; Robby Beyers)	x	
+.	27.jpg	(The Controversy: BYU Game, 2004 - &copy; Robby Beyers)	x	
+.	image5.jpg	(Big Game Racer Girls, 2004 - &copy; Allen Edwards)	x	
+.	29.jpg	(Big Game Racer Girls, 2004 - &copy; Susan D'Arcy)	x	
+.	1_t.jpg	(Left: Megan Hoarfrost, Dollie #1 - &copy; Robby Beyers)<br>(Right: Lisa Asari, Dollie #2 - &copy; Robby Beyers)	2_t.jpg	
+.	3_t.jpg	(Left: Nicole D'Arcy, Dollie #3 - &copy; Robby Beyers)<br>(Right: Jessica Whitten, Dollie #4 - &copy; Robby Beyers)	4_t.jpg	
+.	5_t.jpg	(Left: Carrie Edwards, Dollie #5 - &copy; Robby Beyers)<br>(Right: San Francisco - &copy; Allen Edwards)	image1_t.jpg
+.	7_t.jpg	(Left: Dollies in Tree - &copy; Robby Beyers)<br>(Right: Stanford Football vs. U$C - &copy; Robby Beyers)	6_t.jpg	
+.	image2.jpg	(Basketball 2005 - &copy; Allen Edwards)	x	
+.	image7.jpg	(Fountain Rally 2005 - &copy; Allen Edwards) 	x	
+.	28.jpg	(Last Rally as official dollies, With our Tree, Isaac, Cinco de Mayo 2005 - &copy; Susan D'Arcy)	x	
+.	image12.jpg	("Super-Dollies", Wacky Walk at Graduation 2007)	x	
+.	image13.jpg	(Graduation, 2007 - &copy; Al Ponce)	x	
+.	image15.jpg	(Jessica's Wedding, July 2008: Full set of Dollies, <br>Drum Major, Tree, and Dollie Daddy - &copy; Susan D'Arcy)	x	
+.	image16.jpg	(Dollie Reunion, February 2009 with Dollie Daddy, Tom - &copy; Al Ponce)	x	
+.	image18.jpg	(Dollie Reunion, February 2010 - &copy; Al Ponce)	x	
+.	image19.jpg	(LSJUMB Reunion, November 2010)	x	
+.	image17.jpg	(Dollie Reunion, February 2011 - &copy; Al Ponce)	x	
+
+
+>>5	mainphotos	
+.	2.jpg	(Football 2005 - &copy; Robby Beyers)	x	
+.	1.jpg	(Big Game 2005, Disney Princesses - &copy; Robby Beyers)	x	
+.	1_t.jpg	(Big Game 2005, Left: Maili (Princess Jasmine), Right: Liz (Ariel) - &copy; Robby Beyers)	2_t.jpg
+.	3_t.jpg	(Big Game 2005, Left: Lauri (Pocahontas), Right: Stacie (Bell) - &copy; Robby Beyers)	4_t.jpg
+	
+>>6	mainphotos	
+.	group2.jpg	(Dollie Splash 2006)	x			
+.	group3.jpg	(Getting "dollied-up" for Dollie Splash 2006)	x	
+.	group4.jpg	(Spring All Campus, 2006)	x	
+.	group1.jpg	(Mr. Cardinal Judges, 2006)	x	
+.	8.jpg	(Football 2006 - &copy; Robby Beyers)	x	
+.	image6.jpg	(Big Game at Cal, 2006 - &copy; Robby Beyers)	x	
+.	image7.jpg	(Big Game at Cal, 2006 - &copy; Robby Beyers)	x	
+.	9.jpg	(Big Game at Cal, 2006 ARN Jump - &copy; Robby Beyers)	x	
+
+>>7	mainphotos		
+.	image1.jpg	(Dollie Splash, Spring 2007- &copy; Al Ponce)	x			
+.	image2.jpg	(Oakland A's Game, Spring 2007- © Al Ponce)	x	
+.	image5.jpg	(Roll outs with Mama Dollies (06-07), Spring 2007- © Al Ponce)	x	
+.	image8.jpg	(Christina, Maddie, Katie - Tree week Stunt Power Rangers, Spring 2007)	x	
+.	image1t.jpg	(Spring All Campus (left) and Night out with Tree, John (right), Spring 2007)	image2t.jpg	
+.	18.jpg	(First Football Game - &copy; Robby Beyers)	x	
+.	15.jpg	(SJSU Football Game "Little Suzzies" and Proper Band, Autumn 2007 - &copy; Robby Beyers)	x	
+.	image6.jpg	(SJSU Football Game Field Show "Little Suzzies", Autumn 2007- © Al Ponce)	x	
+.	image4.jpg	(UCLA Football Game, Autumn 2007 - &copy; Robby Beyers)	x	
+.	17.jpg	(Maddie, Christina, Katie - &copy; Robby Beyers)	x	
+.	12.jpg	(Band Reunion, 2007 - &copy; Robby Beyers)	x	
+.	14.jpg	(With Wheaties Drum Major - &copy; Robby Beyers)	x	
+.	image7.jpg	(Rally in San Francisco, Autumn 2007)	x	
+.	13.jpg	(Big Game Peter Pan, 2007 - &copy; Robby Beyers)	x	
+.	19.jpg	(2007/2008 Dollies with LSJUMB - &copy; Robby Beyers)	x	
+
+>>8	mainphotos		
+.	image1.jpg	(Dollie Splash, Spring 2008 - &copy; Al Ponce)	x			
+.	image2.jpg	(Women's Rugby, Spring 2008 - &copy; Robby Beyers)	x	
+.	image3.jpg	(Palo Alto Rally, Autumn 2008 - &copy; Robby Beyers)	x	
+.	image6.jpg	(OSU Football Game, Autumn 2008 - &copy; Robby Beyers)	x	
+.	image8.jpg	(WSU Football Game, Autumn 2008 - &copy; Al Ponce)	x	
+.	image9.jpg	(UCLA Football Game, Los Angeles, Autumn 2008 - &copy; Al Ponce)	x	
+.	image10.jpg	(SJS Football Game, Autumn 2008 - &copy; Robby Beyers)	x	
+.	image11.jpg	(Arizona Football Game, Autumn 2008 - &copy; Robby Beyers)	x	
+
+>>9	mainphotos
+.	image2.jpg	(Post Dollie Splash with Drum Major, Spring 2009 - &copy; Al Ponce)	x	
+.	image6.jpg	(Spring all-campus "Elements" - earth, water, space, fire, Spring 2009)	x	
+.	image3.jpg	(Preparing for Dollie Splash - Dollie Robes Were a Gift From a Tree Candidate, Spring 2009)	x	
+.	image5.jpg	(Post Dollie Splash Gifts, Spring 2009)	x	
+.	image4.jpg	(First Rally, Special Olympics in San Jose, Spring 2009)	x	
+.	image9.jpg	(Football with Stanford Tree Fan, Fall 2009 - &copy; Robby Beyers)	x	
+.	image8.jpg	(Radar Love in Downtown Palo Alto, Fall 2009 - &copy; Robby Beyers)	x	
+.	image1t.jpg	(Shea and Elise, Football 2009 (left, &copy; Robby Beyers) and Stanford @ U$C 55 to 21 Victory! (right))	image2t.jpg	
+.	image11.jpg	(Stanford @ U$C Swin Flu Field Show, Fall 2009 - &copy; Al Ponce)	x	
+.	image13.jpg	(Oregon State Road Trip, Fall 2009 - &copy; Al Ponce)	x	
+.	image3t.jpg	(Shea, Fall 2009)	x	
+
+-2010------------------------------------------------------------------------------------------------------------------
+
+>>0	mainphotos	
+.	1.jpg	(Post Dollie Splash, Spring 2010)	x	
+.	2.jpg	(Spring 2010)	x	
+.	3.jpg	(Football, Fall 2010)	x	
+.	4.jpg	(Football, Fall 2010)	x	
+.	5.jpg	(Spring 2010)	x	
+
+>>1	mainphotos	
+.	2.jpg	(Dollie Splash with Dollie Daddy Wedge and Drum Major Juicebox, Spring 2011)	x	
+.	3.jpg	(First Football game vs. SJSU, Fall 2011)	x	
+.	1.jpg	(Football vs. Arizona, Fall 2011)	x	
+.	1t.jpg	(Football at U$C, Fall 2011)	x	
+
+>>2	mainphotos	
+.	1.jpg	(Spring 2012)	x	
+.	2.jpg	(Spring 2012)	x	
+.	3.jpg	(Fall 2012)	x	
+.	4.jpg	(Fall 2012)	x	
+.	5.jpg	(Fall 2012)	x	
+.	7.jpg	(Fall 2012)	x	
+.	8.jpg	(Fall 2012)	x	
+	
+
+R ------------------------------------ REUNION PICS ----------------------------------------------------
+.	dollie-2011.jpg	(Dollie Reunion, 2011 - &copy; Al Ponce)	x	
+.	band-2010.jpg	(Band Reunion, 2010 - &copy; Al Ponce)	x	
+.	dollie-2010.jpg	(Dollie Reunion, 2010 - &copy; Al Ponce)	x	
+.	dollie-2009.jpg	(Dollie Reunion, 2009 - &copy; Al Ponce)	x	
+.	dollie-2008.jpg	(Dollie Reunion, 2008 - &copy; Al Ponce)	x	
+.	band-2007-3.jpg	(LSJUMB - Band Reunion, 2007, Photo &copy; Robby Beyers)	x	
+.	band-2007.jpg	(Rank Up - Band Reunion, 2007, Photo &copy; Al Ponce)	x	
+.	band-2007-2.jpg	(Band Reunion, 2007, Photo &copy; Robby Beyers)	x	
+.	dollie-2007.jpg	(Dollie Reunion, 2007 - &copy; Al Ponce)	x	
+.	dollie-2006.jpg	(Dollie Reunion, 2006 - &copy; Al Ponce)	x	
+.	dollie-2005-3.jpg	(Dollie Reunion, 2005, Photo &copy; Al Ponce)	x	
+.	band-2003-5.jpg	(Nearly 75 Dollies - Band Reunion, 2003 - &copy; Robby Beyers)	x	
+.	band-2003-4.jpg	(Rankup at Band Reunion, 2003)	x	
+.	band-1998-3.jpg	(Dollies - Band Reunion, 1998 - &copy; Robby Beyers)	x	
+.	band-1998-2.jpg	(Rose Bowl Kicks - Band Reunion, 1998 - &copy; Robby Beyers)	x	
+.	band-1993-2.jpg	(Dollies - Band Reunion, 1993 - &copy; Robby Beyers)	x	
+.	band-1993.jpg	(ARN Jump - Band Reunion, 1993 - &copy; Robby Beyers)	x	
+.	band-1988-4.jpg	(Dollies - Band Reunion, 1988 - &copy; Robby Beyers)	x	
+.	band-1988.jpg	(Serious Boogie - Band Reunion, 1998 - &copy; Alan Mela)	x	
+.	band-1988-2.jpg	("Come Join the Band" - Band Reunion, 1998 - &copy; Alan Mela)	x	
+.	band-1988-3.jpg	(Rose Bowl Kicks - Band Reunion, 1988 - &copy; Robby Beyers)	x	
+.	band-1985.jpg	(Old Dollies Never Die - Band Reunion, 1985 - &copy; Robby Beyers)	x	
+.	band-1985_t.jpg	(They Just Lose Their Kick - Band Reunion, 1985 - &copy; Robby Beyers)	x	

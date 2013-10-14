@@ -1,0 +1,385 @@
+______ - 	decade line
+______ >> dollie year line
+______ ~	default or reg ... specifys if there is a set image for the year.  format of that image will be dollie-yyyy.jpg or dollie-default.jpg (then tab) then any caption if applicable
+______ *	the caption under the year's front image
+______ |	Bold Text (then tab) non bold text
+______ t	list title
+______ .	list element
+______ v	video code
+
+
+-1950------------------------------------------------------------------------------------------------------------------
+>>0	none	
+>>1	none	
+>>2	none	
+>>3	none	
++1954+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>4	main	smlong	
+~	default		
+t	The 1954 Pom-Pon Girls (provided by Pat Lowe):	
+.	<strong>Attire:</strong> We wore white pleated skirts, short sleeved white sweaters with a blouse underneath with a round collar, white bucks and socks.  We wore a red feather in our hair and had big red pom-poms with long white streamers coming from the center, which we waved with the band. 	
+.	<strong>Performance:</strong> We stood in front of the women's rooting section and they had small pom-poms which they waved with us.  We weren't allowed to kick very high, just a small kick and we did a lot of the grapevine step.  In addition to cheering at the games, we also had to help get the card stunts ready for each home game.	
+.	<strong>Neighbors:</strong> The Palo Alto kids loved to try to steal our pom-poms as we all walked out of the game!	
+.	<strong>Auditions:</strong> The path to becoming a pom-pom girl was by being a member of Rally Com and then trying out in front of a sub-committee.  The Band had nothing to do with it.	
+.	<strong>A personal note:</strong> Pat's daughter, Kathy Lowe, was a Dollie in 1984-85.  Which makes them the only mother/daughter dollies.	
++1955+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>5	none	
+>>6	none	
+>>7	main	lg
+~	default		
+>>8	main	med	
+~	default		
+>>9	main	med	
+~	default		
+
+-1960------------------------------------------------------------------------------------------------------------------
+>>0	main	lg	
+~	default		
+>>1	main	med
+~	default			
+>>2	main	medlg	
+~	default			
+>>3	main	medlg
+~	default				
+>>4	main	lg	
+~	default			
+>>5	main	med
+~	default				
+>>6	main	med	
+~	default		
+>>7	main	lglong
+~	default			
+>>8	main	lg	
+~	default		
+>>9	main	med	
+~	default			
+	
+-1970------------------------------------------------------------------------------------------------------------------
+>>0	mainphotos	lg	
+~	reg	(Jeannette, Ken, Mary, Susie, Irene, Geordie, and Susan)		
+t--	Highlights and Fond Memories:
+.	Many historically significant events occurred in 1970 and 1971.  Some were good - the EPA was created, cigarette ads were banned from TV, China joined the UN, the voting age was lowered to 18, Greenpeace was founded, the US Supreme Court ruled desegregation constitutional, the cellular phone battery was invented, the Pentagon Papers were released, and Charles Manson was convicted - and some were not so good - protests raged across the country as the Viet Nam war escalated and the Draft continued, The US invaded Laos, The National Guard opened fire on students at Kent state (killing 4),  inmates in Attica state prison rioted (killing 37), the Marshall University football team plane crashed (killing 75), and thousands died in an earthquake in Peru.  There were many "firsts" of things now taken for granted:  The first Earth Day, the first big-name benefit concert (for Bangladesh, organized by Paul McCartney), the first retail use of bar codes, the first CAT scan, the first Monday Night Football telecast, the first childproof safety cap, the first NYC Marathon, the first floppy disk, the first "no-fault" divorce, and the first microprocessor; and a couple of memorable "lasts": The last Beatle album and the last gold-backed dollar.	
+.	Against the backdrop of these and other important events, the Stanford Football team, led by Heisman Trophy winner Jim Plunkett, made its own significant contribution to history by beating Ohio State by one point in the 1971 Rose Bowl game.  We were honored and blessed to be able to share in the limelight of a very special and exciting year, and while they may not rise to the same level of planetary significance as the events noted above, what follows are "highlights" and other fond memories of our Dollie year:	
+t--	The Good	
+.	<b>Arkansas</b>: After weeks of lobbying (which included our camping out in front of his office), Athletic Director Chuck Taylor agreed to send us on the team plane to the nationally televised opening game against Arkansas.  Band members (not quite so persuasive) drove, hitchhiked and hijacked themselves there on their own, thus earning the moniker "The Immortal 67."  The Immortals greeted us and the team upon our arrival by marching onto the plane playing Suite: Judy Blue Eyes. Other enduring memories: people with porkers on their heads yelling "Pig, Suuueeee" and Bandsmen rearranging signs around town at night (e.g. "Hogs Beat Stanford" became "Stanford Eats Hogs").	
+.	<b>Choreography</b>:  So much to do in so little time!  Luckily we all agreed on all the steps all the time (not!).  Some of our favorites:  Grapevine, Up Tight, Yellow River, Uncle John's Band, Little Old Lady from Pasadena, Honky Tonk Woman, Midnight Hour, Ain't Too Proud to Beg, and The Scalp Song. We also talked the Band into "resurrecting" The William Tell Overture although for some reason they hated to play it and would do so only after extensive begging.	
+.	<b>Rehearsals</b>:  All day, every day, during Band Camp.  During football season, every week night in the original Shak (a nineteenth century wood building with a distinctive aged beer aroma) and in curlers on the often muddy practice field at 8 a.m. on game days.  Who can ever forget that mad dash back to the dorm to change then back again to the Shak in time for the march to the Stadium?	
+.	<b>Marching into games</b>:  At home, down the hill in front of the Band; in LA through the tunnel of the Coliseum with the drums echoing off the walls; at Cal with hundreds of camera's flashing - it was always a gut-thrill to enter any stadium filled with cheering fans.	
+.	<b>Being on the sidelines for football games</b>:  For the whole game, every game, all season; not just coming out to dance then going back to sit in the stands.	
+.	<b>The Rose Parade</b>:  One million cheering people lined the streets of Pasadena with a world-wide TV audience of something like 50 million more.  Sure it was freezing cold lining up at 5 am, but who cared?  Riding on the Pacific Eight Conference float completely surrounded by gorgeous, sweet-smelling roses, we danced, sent "princess waves," and tossed roses to the crowd while the Band marched (for the first time in years) for all 5 1/2 miles of the parade route.  Of course, true to form they did break rank often to greet and kiss female fans and grab a swig of beer or two along the sidelines.  They also were allowed to "scatter" for the big turn at Orange Grove and Colorado Streets (right in front of the TV cameras). The socks worn by Band Director Dr. Arthur Barnes, who marched along the entire way, were hung in the Shak thereafter.	
+.	<b>The Rose Bowl</b>:  Stanford's first appearance in 19 years and first win in 30.  All the events leading up to the game were just amazing fun:  The mounting excitement on campus all year and especially right before the holidays, meeting and residing with the Band at UCLA (Sproul Hall dorm) for the several days of rehearsals, performing at Disneyland, and being greeted by adoring children and other fans everywhere we went.  The Ohio State band was also housed at UCLA and during one practice the Band engineered it so that it (the Ohio State band) had to march (yes, march!) through our ranks as they (our Band) played and we danced to Up Tight.  After all the anticipation, it was an unbelievable thrill to run onto the field behind drum major Geordie Lawry on his Laugh In tricycle - he tipped over, stripped off his Arte Johnson yellow raincoat, and (to the cheers of over 100,000 in attendance) revealed his Baby New Year costume of huge safety-pinned diaper and 1971 sash.  From start to finish, the game itself was a thrilling emotional experience for all who participated and attended. After we won, fans swarmed the field and thousands remained in the stands as the Band played an extended victory concert, culminating as darkness fell with its stirring arrangement of the National Anthem.  It was an unforgettable moment.	
+.	<b>The Heisman</b>:  We benefited all year from the attention Stanford received as well as the PR surrounding Jim's candidacy, and we were there to greet him when he came back from winning the award - a very proud moment for him and for Stanford sports. 	
+.	<b>Away basketball games</b>:  While accompanying the Band to LA might be put in the "Bad" category below (lots of hours spent with lots of drunken bandsmen on an obscenely painted bus), overall the trip was a blast.  We visited and performed at Knott's Berry Farm and Busch Gardens (which no longer exists), and the LA alumni were appreciative at rallies and the games with UCLA and USC.	
+.	<b>Almost being in a movie</b>:  We were flown down (accompanied by a few of our always protective male Band members) to LA to "audition" for the sequel to Billy Jack.  We're not sure what happened as we were not in the movie (and don't know if other cheerleaders were), but the limo rides and smooth talk of the producers were memorable.	
+.	<b>Modeling at Magnin</b>:  We can't remember much about this other than that we did it.  We recall being flattered but not paid.
+.	<b>Being an Indian</b>:  Ok - maybe it's not PC, but we still think that we had the cutest outfits in the country.  We loved our feathers and beads, and we, along with the cheering fans, also loved having Prince Lightfoot (Timm Williams, a member of the Yurok tribe) proudly dance in full dress and authentic regalia at every home pre-game show.  To this day, some of us believe that it would have been better to keep the Indian mascot to promote cultural awareness instead of just dropping it.  In the search for a new mascot, the Band initially favored the Robber Barons while we supported the Thunder Chickens which was the nickname given to the football team's defensive line our year.  The Tree came later.  	
+.	<b>Dancing</b>:  Before, during and after games of course (especially after the Washington game when we clinched the Rose Bowl bid and danced with roses in our teeth) but also at the Concours d'Elegance in Burlingame (our first appearance), in the streets of Little Rock, by the pool in Pullman wearing waiters' coats, at fundraisers and pep rallies, in UGLY before the SC game, at Lake Lagunita during the Bonfire, on table tops in hotels and in the streets of San Francisco (along with a North Beach stripper) before Big Game -- dancing any time and any place! 	
+.	<b>Friends of the Dollies</b>:  Oh, so many!  Here are a special few:  Ken Peterson (Band Manager), Geordie Lawry (Drum Major), Sam Boot (Properties Manager ), Dean Campbell (Trombone - Rank Leader ), Mark Loye (Trumpet - Anthem Soloist ), Hal Mickelson (Announcer ), David Ruiz (Manager 71 - '72 ), Dean Smith (Manager 72 - '73 ), Bob Murphy (Sports Information Director), Jean Zwicky (Bob's secretary), our "Dollie Families" (the Mells, the Banks, the Stephensens, and the Larsens), Rick Kent (Daily Staff Photographer), and various assorted boyfriends and dates (including Jerry Gass and Stuart Boyd who both eventually became Dollie husbands).
+t--	The Bad	
+.	<b>Lost Games</b>:  Football team losses to Purdue, Air Force and Cal spoiled a perfect season - but we still went to the Rose Bowl and won, so not so bad after all!	
+.	<b>IFO's</b>:  Having to dodge fruit and water balloons lobbed at us from the Cal stands at Big Game and nuts ("buckeyes") at the Rose Bowl. Luckily, we were always ably defended by watchful Bandsmen and also, at Big Game, by members of the Lacrosse team. 	
+.	<b>Band High Jinks</b>:  Technically bad but oh so good!   It was a weekly challenge to stay one step ahead of those sneaky-smart Bandsmen and figure out how to avoid unwittingly becoming part of an off-color formation during their subtly clever half time shows.  There were also silly pranks too numerous to mention here but sneaking onto the Cal campus during Big Game week bears mention (so to speak).  	
+.	<b>The Price of Fame</b>:   While we relished our year in the limelight (who doesn't like being treated like a star?), we are glad it was just one year.  It's darn hard to look good all the time, and we each have a few less than flattering paparazzi photos to prove it!	
+.	<b>Lost Dollie</b>:  Susie Peterson passed away from heart disease in 1995.  Not a Dollie year event but a truly bad thing which must be mentioned.	
+t--	Firsts	
+.	<b>Travel</b>:  We were the first Dollies to travel and perform outside of California (for the Arkansas and Washington State games - both televised).  
+.	<b>Southern Football</b>:  We were the first Dollies to appear on a big-time southern football powerhouse home field.  Being from California in the early 70's was like being from a completely different planet.  Typical questions:  Are you Hippies? Do you know any movie stars? Crowds followed us wherever we went, and true Southern hospitality was extended to us at all times, even after our team beat the beloved Razorbacks.  
+.	<b>Boots!  And capes!!</b>  Our "iconic" Big Game Indian outfits (also worn for the Rose Bowl and basketball) were created by a Hollywood costume designer who suggested the addition of red, fringed boots - a first for Dollie uniforms.  We cut and glued the fringe on ourselves.  While not exactly thematic, our red wool capes - another uniform first - were great for cold weather (see Rose Parade above).	
+.	<b>Spring Sports</b>:  We believe we were the first Dollies to perform in spring sports attire (e.g. tennis dresses for tennis matches, shorts for track meets).	
+.	<b>Dropping Trou on National TV</b>:  Drum Major Geordie Lawry led the half-time show in a full wet suit, flippers, mask and snorkel while the Band, all barefooted and wearing shades, dropped their conservative black uniform slacks to reveal colorful surfer jams right before taking the field - at that time, a shocking "first" that prevented us from winning the so-called Battle of the Bands.  Afterward, Doc Severinsen, Johnny Carson's Tonight Show band leader, congratulated the Band on it's gutsy performance and Steven Stills sent a telegram from jail thanking the Band for playing his song (Suite: Judy Blue Eyes).	
+.	<b>Recording</b>:  The Band recorded its first LP record album (no Dollies involved, but still a good "first.")	
+t--	Lasts	
+.	<b>Fight Song(s)</b>:  We regret that we missed All Right Now by one year, making ours the last year that the "real" fight song - Come Join the Band - was played after every touchdown. 	
+.	<b>The Last Real Cannon</b>:  An unfortunate backfire incident at the Washington game caused the authentic, impressive-sounding cannon shot off by the Band during the Banner and after every home team score to be condemned, altered and ultimately retired.
+t--	And Now...	
+.	Our own grown children are proof that many years have passed since we were Dollies together.   There have been graduations, grad schools, weddings, babies, work, travel, grand babies, divorce, retirement  -- all the stuff that makes up busy and full lives.  Through it all, we have managed to keep in touch, stay friends and get together from time to time to recall the good ol' days, just like the OF's we've become.	
+.	Was ours the best Dollie year ever?  We like to think so - but we also hope that every Dollie truly believes that her year was "the best" because, of course, it was.   To be a Dollie is to be a part of a special tradition, and the memories of our one, magic year will remain in our hearts forever.  We had fun, supported the band, the teams and the school, entertained the masses, and are proud and grateful to forever share a bond with each other and with every other Stanford Dollie. 	
+t--	With love and best wishes to all Dollies everywhere, 
+.	Reeni, Mary, Jeannette and Susan</b>
+.	(With assistance from and our thanks to Sam Boot, Dean Campbell, Ken Peterson, David Ruiz, Dean Smith III and Marc Barman).
+
++1971+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>1	mainphotos	medlg	
+~	default		
++1972+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>2	mainphotos	med		
+~	reg	(Susan, Charmaine, Kerry, Irene &copy; Alan Mela)	
++1973+++++++++++++++++++++++++++++++++++++++++++++++++++++++	
+>>3	mainphotos	medlg	
+~	reg	(Linda T, Linda J, Stephanie, Jackie, Marcella - &copy; Alan Mela)	
+t	Random Facts:	
+.	Jacki was the very first band member ever to become a Dollie (LSJUMB went co-ed in the 72-73 season)	
++1974+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>4	mainphotos	xlg	
+~	reg	(Photograph &copy; Alan Mela)	
+t--	Event Highlights:	
+.	A top Big Game: Mike Langford's field goal, only 17 secs. left on clock.	
+.	Maples Miracle: basketball team beat USC & UCLA in same weekend.	
+.	Penn State Game: cross-country drive, Band/Dollies in cars and vans.	
+.	Hosted Russian Water Polo Team (Dollies dinner partners).	
+.	A year without a mascot (Indians out... Robber Barons? or Trees? in?)	
+t--	Original Choreography:	
+.	58 original routines! Back in the days when Dollie squads made up four or five new routines every week during football season; (creative force, Denise, became a professional choreographer.)	
+.	Bill Tell (Cowboys vs. Indians, still performed w/just a few updates.)	
+.	All Right Now (moves inspired "The Jump"! Dance ran for ~10 yrs.)	
+t--	Significant Others:	
+.	Drum Major Man: Buzz Thompson, in pink tux shirt, on bike Delilah.	
+.	Dollie-Dad & Step-Dads: Bill Wick, Norm Haleen & Kent Blumberg	
+.	Sidekick & Dance Archiver: Clark Sterling	
+.	Photographer & Cookie Baker: Al Mela	
+.	Terry married a star basketball player. Hilda, a star football player.	
+t--	Our Song and other Tidbits:	
+.	"We Could Have ______ All Night" w/suggestive omissions thru out.	
+.	Dance Line: all stood very close in height ( 5'5½" ± a smidge).	
+.	3 Cowboys and 2 Indians became: 2 doctors, 1 lawyer, 1 newscaster, and 1 director/choreographer -- and still remain good friends.	
++1975+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>5	mainphotos	medlg	
+~	reg	(Photograph &copy; Alan Mela)	
++1976+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>6	mainphotos	xsm	
+~	reg	(Carrie, Heidi, Carla, Lynn, Cathie - &copy; Alan Mela)	
++1977+++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>7	mainphotos	med	
+~	reg	(Photograph &copy; Robby Beyers)			
++1978+++++++++++++++++++++++++++++++++++++++++++++++++++++++	
+>>8	mainphotos	medlg	
+~	reg	(Photograph &copy; Robby Beyers)		
++1979+++++++++++++++++++++++++++++++++++++++++++++++++++++++	
+>>9	mainphotos	med		
+~	reg	(Photograph &copy; Robby Beyers)			
+
+-1980------------------------------------------------------------------------------------------------------------------
+>>0	mainphotos	med	
+~	reg	(Photograph &copy; Robby Beyers)		
+|	Dollie Daddy:	Mark Masterson	
+t--	Year Highlights:	
+.	Had an amazing time traveling to Boston College on buses with the band, and performing in Boston's 350th anniversary parade.	
+t--	Where are they now?	
+.	Four of these dollies became doctors, and one a lawyer.	
++1981+++++++++++++++++++++++++++++++++++++++++++++++++++++++	
+>>1	mainphotos	med	
+~	reg	(Photograph &copy; Robby Beyers)		
+|	Dollie Daddy:	Stevie Hoffman		
+t--	Year Highlights:		
+.	Traveled to Purdue with the band.		
++1982+++++++++++++++++++++++++++++++++++++++++++++++++++++++		
+>>2	mainphotos	med	
+~	reg	(Photograph &copy; Robby Beyers)		
+|	Dollie Daddy:	Gary Robinson	
+t--	Year Highlights:	
+.	These are the dollies of "The Play".	
+.	Traveled to Japan with the football team for an exhibition game.	
+t--	Other:
+.	4 out of 5 dollies lived in the same quad in Branner their freshman year when they were all chosen as Dollies.
++1983+++++++++++++++++++++++++++++++++++++++++++++++++++++++		
+>>3	main	med	
+~	reg	(Photograph &copy; Robby Beyers)		
+|	Dollie Daddy:	Ben Langlotz	
++1984+++++++++++++++++++++++++++++++++++++++++++++++++++++++		
+>>4	mainphotos	xlg	
+~	reg	(Photograph &copy; Robby Beyers)		
+|	Dollie Daddy:	Scott Gode, Jeff Stevens	
+t--	Other:	
+.	These dollies refused to wear the white boots that had been worn for the previous decade.  Scott Gode and Jeff Stevens were not happy and decided to buy them the boots anyway.  After a tense stand off, the boots ended up being nailed to the walls in the old Dollie room (two of the boots forming the two "L"s in DOLLIES painted above the mirror).  The boots didn't come back for another decade.	
++1985+++++++++++++++++++++++++++++++++++++++++++++++++++++++		
+>>5	mainphotos	medlg	
+~	reg	(Photograph &copy; Robby Beyers)		
+|	Dollie Daddy:	Jeff Stevens	
++1986+++++++++++++++++++++++++++++++++++++++++++++++++++++++		
+>>6	mainphotos	lg	
+~	reg	(Photograph &copy; Robby Beyers)			
+|	Dollie Daddy:	Todd Olson	
++1987+++++++++++++++++++++++++++++++++++++++++++++++++++++++		
+>>7	mainphotos	medlg	
+~	reg	(Photograph &copy; Robby Beyers)		
+|	Dollie Daddy:	John Mannion	
+t--	Other:
+.	Dollie Patty married the drum major from this year, Pete Adamy.
++1988+++++++++++++++++++++++++++++++++++++++++++++++++++++++		
+>>8	mainphotos	medlg	
+~	reg	(Patti, Rachel, Shannon, Sheri, Marsi - &copy; Robby Beyers)		
+|	Dollie Daddy:	Jon Sherman	
+t--	Year Highlights:	
+.	Men's NCAA basketball tournament in North Carolina	
+.	Women's NCAA basketball tournament in Shreveport, LA.	
+.	Notre Dame for football	
+.	World's Exposition in Brisbane Australia!	
+t--	Other:
+.	Dollie Patti married the drum major from this year, Dylan Johnson.
++1989+++++++++++++++++++++++++++++++++++++++++++++++++++++++			
+>>9	mainphotos	lg	
+~	reg	(Big Game 1989 - Meghan, Dionn, Emily, Mary, Julie - &copy; Robby Beyers)		
+|	Dollie Mommy:	LindaKay Brown	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++		
+
+-1990------------------------------------------------------------------------------------------------------------------
+>>0	mainphotos	med	
+~	reg	(Photograph &copy; Robby Beyers)		
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++	
+>>1	mainphotos	med	
+~	reg				
+|	Dollie Daddy:	Casey O'Hara	
+|	Nickname:	"Stellar Dollies"	
+t--	Original Choreography:	
+.	White Punks on Dope (based in part on '89-90 dance)	
+t--	Advanced Degrees:	
+.	2 MBAs, 2 MDs, 1 JD, 1 MPH, 1 DrPH	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>2	mainphotos	sm	
+~	reg	(Big Game 1992 - Photograph &copy; Robby Beyers)			
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>3	mainphotos	med		
+~	reg	(Big Game 1993 - Photograph &copy; Robby Beyers)		
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++	
+>>4	mainphotos	med		
+~	reg	(Photograph &copy; Robby Beyers)		
+|	Dollie Daddy:	Chris Quaintance (ccq)	
+|	Nickname:	"Hardcore Dollies"	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>5	mainphotos	sm		
+~	reg	(Shaine, Julie, Amy, Erin, Stephanie)	
+|	Dollie Daddy:	Josh Schiller	
+|	Nickname:	"Sketchy Dollies"	
+t--	Year Highlights:	
+.	Teaching the Stanford women's basketball team the Charlie's Angel intro to Crazy Train and performing with them in an airport.	
+.	Dancing in the snow at Harvard Square.	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++	
+>>6	mainphotos	med	
+~	reg	(Photograph &copy; Robby Beyers)		
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>7	mainphotos	xsm	
+~	reg	(Photograph &copy; Robby Beyers)		
+|	Dollie Mommy:	Claire Bacher	
+|	Nickname:	"Bomb Ass Dollies"	
+t--	Year Highlights:	
+.	100th Big Game	
+.	Stanford Men's Basketball to the Final Four in San Antonio	
+.	Women's Volleyball National Champs	
+t--	Other:	
+.	Height ranges from 4'11'' to 5'10''	
+.	Dollie Emily married the tree from this year, Matty Merrill.	
+t--	Original Choreography:	
+.	Welcome to Paradise (Traditional)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++	
+>>8	mainphotos	medlg	
+~	reg	(Lani, Wendy, Helen, Lynn, Lizzie - &copy; Robby Beyers)	x	
+|	Dollie Daddy:	Jon Stemmle	
+t--	Year Highlights:	
+.	Went to China for the International Beer Festival to represent the USA in the festival ceremonies over the summer of '98.	
+.	Dollies during the 1998 Band Reunion.	
+.	Dollies the year the original Shak came down.	
+t--	Original Choreography:	
+.	Hell (Helen, Traditional)	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++		
+>>9	mainphotos	xsm	
+~	reg	(Campbell, Maria, Rhiannon, John, Esther, Shiao - &copy; Al Ponce)	
+|	Dollie Daddy:	John Chase ('00)	
+
+-2000------------------------------------------------------------------------------------------------------------------
+>>0	mainphotos	xsm	
+~	reg	(Jenny, Yael, Lisa, Pamela, Amanda - &copy; Robby Beyers)	x	
+|	Dollie Daddy:	Charlie Pollak ('02)	
+t--	Original Choreography:	
+.	I Wish (Amanda, Traditional)	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>1	mainphotos	xsm		
+~	reg	(Amy, Veronica, Emma, Lauren, Nikki - &copy; Robby Beyers)	
+|	Dollie Daddy:	Erich Eminhizer ('02)	
+t--	Original Choreography:	
+.	Livin in the USA (Nikki, Traditional in Waiting)	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>2	mainphotos	sm	
+~	reg	(Val, Nev, Marisa, Malia, Erin - &copy; Robby Beyers)	
+|	Dollie Daddy:	Aram Cretan ('03)	
+t--	Original Choreography:	
+.	Smoothe Criminal (Malia, Taken by 03/04, 04/05, 05/06, and 07/08)	
+.	Crazy Train (Malia, Taken by 03/04 and 04/05)	
+.	Hard to Handle (Valerie)	
+.	Down to the Bone (Nevenka)	
+.	Walking on the Sun (Marisa)	
+.	5:15 (Malia)	
+.	Mister Jones (Malia)			
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>3	mainphotos	xsm	
+~	reg	(Mel, Tracy, Michelle, Clare, Ronnie - &copy; Robby Beyers)	
+|	Dollie Mommy:	Stella Cousins	
+t--	Original Choreography:	
+.	Hard to Handle (Mel, Tracy, Clare, Taken by 04/05 and 05/06)	
+.	Down to the Bone (Clare, Taken by 04/05 and 05/06)	
+.	Been Caught Steeling (Tracy, Taken by 04/05 and 05/06)	
+.	Tear the Roof off this Sucker (Melanie, Taken by 04/05)	
+.	Zuit Suit Riot (Clare)	
+.	Whisper your Name (Michelle)	
+.	What is Hip (Tracy)	
+.	Stuff (Clare)	
+.	Mister Jones (Tracy)	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++	
+>>4	mainphotos	med	
+~	reg	(Nicole, Jessica, Carrie, Megan, Lisa)	
+|	Dollie Daddy:	Tom Hennessey	
+|	Nickname:	"Singing Dollies" or "Eating Dollies"	
+t--	Year Highlights:	
+.	Women's Volleyball Final Four in Long Beach and National Champs	
+.	Roadtrips/Airtrips to LA - Charlotte, North Carolina - Kansas City, Missouri - and making it just in time for Fres-yes!
+t--	Other:	
+.	The band got in trouble when these dollies wore wedding veils at a half time show against BYU. All five dollies were titled "Mrs. Hennessy" after the announcer proclaimed it was the sacred bond "between a man and a woman... and a woman... and a woman... and a woman... and a woman" with dollie daddy Tom.		
+.	Dollie Jessica married ABF drummer Dave "Sideshow" Gustafson in July 2008. They met on our pre-season roadtrip.	
+t--	Original Choreography:	
+.	Come out and Play (Megan, Taken 05/06 - 09/10)		
+.	Lucretia McEvil (Megan, Taken by 05/06)	
+.	Mister Jones (Lisa)	
+.	Nightclub (Megan)	
+.	Our House (All, Taken by 05/06, 07/08 - 09/10)	
+.	Short Skirt, Long Jacket (Carrie, Taken by 05/06, 07/08, 09/10)	
+.	What is Hip? (Megan)	
+.	Wild Night (Megan)	
+v	Audition Video, 2005	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>5	mainphotos	xsm		
+~	reg	(Maili, Liz, Stacie, Katie, Lauri - &copy; Robby Beyers)	
+|	Dollie Daddy:	Mike Priest	
+t--	Original Choreography:	
+.	All I ever Wanted (Liz, Taken by 06/07 - 08/09)
+.	Drunken Lulabies (Stacie, Taken by 06/07)
+.	Golgi Apparatus (Maili)
+.	Hey, Big Brother (Katie)
+.	Nightclub (Lauri, Taken by 09/10)
+.	What is Hip (Lauri, Taken by 06/07 - 08/09)
+.	Whisper your Name (Liz)
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>6	mainphotos	sm	
+~	reg	(Brittiany, Annemarie, Abby, Lauren, Amy - &copy; Robby Beyers)	
+|	Dollie Daddy:	Adam Cohen	
+v	Audition Video, 2007	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>7	mainphotos	xsm	
+~	reg	(Jessica F, Christina, Maddie, Jessica M, Katie - &copy; Robby Beyers)	
+|	Dollie Mama:	Liz Schackman	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>8	mainphotos	sm	
+~	reg	(Jennifer, Taylor P, Taylor T, Sydney, Ali - &copy; Robby Beyers)		
+|	Dollie Daddy:	Nate Foorman	
+t--	Original Choreography:	
+.	One at a Time (Taylor T.)	
+.	Rubberband Man (Taylor T.)	
+.	Hey Big Brother (Jenn)	
+.	No Rain (Ali)	
+.	Peace of Mind (Sydney)	
+.	Life in the Fast Lane (Taylor P.)	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>9	mainphotos	sm	
+~	reg	(Shea, Paula, Elise, Nia, Kim - &copy; Al Ponce)	 
+|	Dollie Daddy:	Tim Haefele	
+
+-2010------------------------------------------------------------------------------------------------------------------
+>>0	mainphotos	sm	
+~	reg	(Alina, Sarah, Alex, Melissa, CC)	
+|	Dollie Daddy:	Ben Lasley		
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>1	mainphotos sm	
+~	reg	(Paula, Jessica J, Clare, Jessica S, Danna)	
+|	Dollie Daddy:	Brian Kooiman	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>2	none	
+~	reg	(Christine, Amber, Dafna, Emily, Tanya)	
+|	Dollie Mommy:	Jilliane Bruffey	

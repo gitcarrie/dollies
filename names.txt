@@ -1,0 +1,369 @@
+-1950---------------------------------------------------------
+>>0	none	
+>>1	none	
+>>2	none	
+>>3	none	
+>>4	main	smlong	
+.	Emmy Badger Ames	
+.	Judy Babb	
+.	Sally Sloan Jordan	
+.	Pat Siler Lowe	
+.	Kay Osbourn	
+.	Katie Seaver	
+.	Lynn Sellman	
+>>5	none	
+>>6	none	
+>>7	main	lg	
+.	Sonya (Davison) Lamb	
+.	Margaret (Mix) Gould	
+.	Cornelia "Connie" (King) Josse	
+.	Luana (Gough) Langlois	
+.	Sandra (Hogan) Robbins Lier	
+>>8	main	med	
+.	Barbara L. Baer	
+.	Caryl (Ely) Chambers	
+.	Rosemary Dedman	
+.	Carole (Erickson) Halsted	
+.	Nancy (Viets) Merrill	
+>>9	main	med	
+.	Susie Berger	
+.	Nancy (Hughes) Daley	
+.	Nancy (Lee) Hanna	
+.	Judy (Kehoe) McKibben	
+.	Nancy Young	
+
+-1960---------------------------------------------------------
+>>0	main	lg	
+.	Wendy (Anderson ) Bianchi	
+.	Patricia (Murman) Burbank	
+.	Kathleen (Page) Elliott	
+.	Lana (Caffey) Hayward	
+.	Suzanne (Horney) L. Sheppard	
+>>1	main	med	
+.	Mary Dicky Barkley	
+.	Diana (Deasy) Creighton	
+.	Toni R. (Williamson) Croft	
+.	Susie J. (Quigley) Matthews	
+.	Judith N. Webb	
+>>2	main	medlg	
+.	Nancy (Albert ) Albert-James	
+.	Lynn (Cipolat) Archer	
+.	Virginia "Ginger" (Bilder) Bell	
+.	Barbara (Glidden) Dray	
+.	Jacquelynne F. Jackson	
+>>3	main	mlg		
+.	Elaine E. Hill	
+.	Martha (Crummey) Parriott	
+.	Barbara (Burns) Tepper	
+.	Ellen (Jung) Whitmore	
+.	Jacqueline Laney Florsheim ('65)	
+>>4	main	lg	
+.	"Winki" Belz	
+.	Freddie A. (Baumstark) Jackson	('67)	
+.	Susan T. Janss	('68)	
+.	Margaret "Peggy" (Eaton) Miller	('66)	
+.	Lynn Williams Twist	('67)	
+>>5	main	med		
+.	Laura (Grant) Gamble	('67)	
+.	Annabelle (Evans) Nye	('68)	
+.	Aya) Louisa McDonald	('67)	
+.	Jonell (Friedkin) Monschke	('68)	
+.	Janet (Hardy) Willson	('68)	
+>>6	main	med	
+.	Susan Bailey Blunt	('70)	
+.	Kathy Gerson	('69)	
+.	Barbara (Range) Oar	('68)	
+.	Jackie (Fergusson) Sacco	('68)	
+.	Susan (Hayduk) Siebert	('69)	
+>>7	main	lglong		
+.	Jennifer Sue Bond	
+.	Nancy H. Kerr	
+.	Eleanor "Ellie" (Watkins) Laney	
+.	Susan (McCann) Messer	
+.	Patricia Susan (Beck) Parmely	
+.	Susan Phillips	
+>>8	main	lg	
+.	Barbette "Barbi" (Feller) Dauliner	
+.	Teresa (Cady) Deane	
+.	Cheri (Dyck) Micheletti	
+.	Virginia "Ginger" (Butts) Radlo	
+.	Melissa (Toney) Sullivan	
+>>9	main	med		
+.	Cathleen Caballero	
+.	Kathleen (McKenna) Carter	
+.	Chistine Eskola-Feig	
+.	Diane (Fields) Geocaris	
+.	Linda (Wright) Moore
+	
+-1970---------------------------------------------------------
+>>0	mainphotos	lg	
+.	Irene "Reeni" Maharam Boyd	('73)	
+.	Maria "Mary" Hernandez Gass	('73)	
+.	Jeannette (Jones) Y.J. Heidrich	('73)	
+.	Susie Peterson (aka Leef Kedi)	('72)	
+.	Susan Taylor	('72)	
+>>1	main	medlg	
+.	Laura (Simon) Rung	('74)	
+.	Sheri (Cooper) Sinykin	('72)	
+.	Christina (Hwang) Madison	('74)	
+.	Daryl (Wood) Wood-Gerber	
+.	Linda (Mitchell) Sanderson		
+>>2	mainphotos	med		
+.	Charmaine Berry	('75)	
+.	Irene (Balcar) Dillon	('73)	
+.	Susan (Myers) DePrez	('73)	
+.	Jill (Kostenko) Fogelsong	('73)	
+.	Kerr McGuinn	('75)	
+>>3	mainphotos	medlg	
+.	Marcella (Deffke) Harrison	('76)	
+.	Jacki (Nelson) Williams-Jones	('76)	
+.	Stephanie (Jubina) Baker	('76)	
+.	Linda Jenks	('76)	
+.	Linda (Thomas) Brigleb	('76)	
+>>4	mainphotos	xlg	
+.	Terry (Bowman) Gilberg	('76)	
+.	Hilda Hutcherson	('76)	
+.	Denise (Gallardo) McKenna-Doyen	('77)	
+.	Loretta (Churchill) Miramontes	('75)	
+.	Linda (Buddenberg) Reed	('77)	
+>>5	mainphotos	medlg	
+.	Antonia "Toni" Hunter Breck	('78)	
+.	Linda Bridgford Gantes	('78)	
+.	Bonnie McColl Platt	('78)	
+.	Teresa "Terry" Elms Lindsay	('78)	
+.	Katherine (Cannell) Wright	('78)	
+>>6	mainphotos	xsm	
+.	Cathie Pelton	
+.	Lynn Preslo	
+.	Carla Murray	
+.	Carrie Teagle	
+.	Heidi Jacobson	
+>>7	mainphotos	med	
+.	Elena (Camacho) Beyers	('84)	
+.	Jane (Dorst) Clark	('79)	
+.	Simone B. Cox	('78)	
+.	Nancy (Schorr) Epstein	('79)	
+.	Beth (Buell) Schoenstein	('80)	
+>>8	mainphotos	medlg	
+.	Pamela Guzy	
+.	Jonrie Etchemendy Davila	('81)	
+.	Anna Maria (Guerra) Fairhurst	
+.	Gayle McGinnis	
+.	Ronda Spinak	('80)	
+>>9	mainphotos	med	
+.	Jayne (Sherry) Mordell	('82)	
+.	Terrie (Oppelt) Preising	('82)	
+.	Trinka (Gayle Wasik	('81)	
+.	Wendy Scroggin	('82)	
+.	Carol Gamez	('82)	
+
+-1980---------------------------------------------------------
+>>0	mainphotos	med	
+.	Didi Justin-Reed	('82)	
+.	Clare (Colwell) Humphrey	('83)	
+.	Hilary (Hall) Bartels	('82)	
+.	Lenita Williamson	('83)	
+.	Dana Fugelso	('81)	
+>>1	mainphotos	med	
+.	Helene (Duhamel) Duffy	('84)	
+.	Karol Watson	('84)	
+.	Gina (Davis) Carroll	('84)	
+.	Nancy Branch	('84)	
+.	Mary Lee MacKichan	('83)	
+>>2	mainphotos	med		
+.	Melinda (Myers) Cook	('85)	
+.	Sue (Cameron) McDonald	('85)	
+.	Betsy (De Palma) Sperry	('85)	
+.	Diana Dobbs-Melton	('85)	
+.	Gina Moreno-John	('85)	
+>>3	main	med	
+.	Marisa Butler-Brown	
+.	Debbi (Reza) Christiansen	
+.	Julie (Clinton) Quinn	
+.	Karen (Hanst) Vesey	
+.	Carolyn Weisz
+>>4	mainphotos	medlg	
+.	Kelly Colbert		
+.	Brenda (Branin) Beck		
+.	Kathy (Lowe) Knowles		
+.	Monica (Lytle) Lyle		
+.	Ellen (Rosenthal) Mouchawar		
+>>5	mainphotos	medlg	
+.	Jeanine (Gaylord) Mouchawar	
+.	Susan (Inge) Callahan	
+.	Laurie (Elliott) Croft	
+.	Anne O'Brien	
+.	Arija Bareikis	
+>>6	mainphotos	lg	
+.	Vicky (Takatsuka) Cleaveland	('89)	
+.	Dineen (Johnson) Greer	('89)	
+.	Lisa Larragoite	('88)	
+.	Julie Nasif Litle	('89)	
+.	Katie (Genshlea) Paris	('89)	
+>>7	mainphotos	medlg	
+.	Dierdre "Dee" (Cohen) Katz	('89)	
+.	(Laura) Ashley McLain	('90)	
+.	Patty Flam	('91)	
+.	Shelley (Gin) Lee	('91)	
+.	Anne (Chun) Longo	
+>>8	mainphotos	medlg	
+.	Sheeri (Caldwell) Mitchell	('91)	
+.	Rachel Croft	('91)	
+.	Shannon Keel	('91)	
+.	Marsi (Lindersmith) Gorman	('91)	
+.	Patti Williams	('89)	
+>>9	mainphotos	lg	
+.	Emily (Mackenzie) Brakebill	('92)	
+.	Meghan Mackay (Thorpe)	('92)	
+.	Juli Oh	('91)	
+.	Dionn (Stewart) Shaffner	('92)	
+.	Mary (Gehan) Steele	('92)	
+
+-1990---------------------------------------------------------
+>>0	mainphotos	med	
+.	Noelle (Kovach) Chapin	('93)	
+.	Sun Kim	('93)	
+.	Denise S. Martinez	('93)	
+.	Ashanti D. Trent	('93)	
+.	Celene (Soto) Voyles	('93)	
+>>1	mainphotos	med	
+.	Debbie Bain Brickley	('94)	
+.	Heidi Gilman Bennett	('93)	
+.	Diana Kraft	('94)	
+.	Kristie Marks deBusschere	('94)	
+.	Julie (Carter) Servoss	('94)	
+>>2	mainphotos	sm	
+.	Michelle Avril	('95)	
+.	Erin (Cutler) Clausen	('95)	
+.	Vivienne Hsy	('95)	
+.	Felicia Khoja	(M.A. '93)	
+.	Sondra Ward	('94)	
+>>3	mainphotos	med		
+.	Heidi Hwong	('96)	
+.	Sangini "Gini" Majmudar	('96)	
+.	Elizabeth "Lizzie" Sayner	('96)	
+.	Karen L. Simon	('96)	
+.	Tiffany D. Trotter	('96)	
+>>4	mainphotos	med	
+.	Vanessa Arrington	('97)	
+.	Rachel (Barnett) Peters	('97)	
+.	Yu-Jin Kim	('97)	
+.	Jenny Nelson	('97)	
+.	Jody Thomas	('97)	
+>>5	mainphotos	sm		
+.	Stephanie Pieczenik	('98)	
+.	(Amy) Jo Chien	('98)	
+.	Erin (Cavalli) Duran	('97)	
+.	Shaine (Muller) Morris	('98)	
+.	Julie Cuevas	('98)	
+>>6	mainphotos	med	
+.	Corinne Chapman	('99)	
+.	Brittney Jensen	('99)	
+.	Lindsay Mazotti	('99)	
+.	Tracey McLean	('99)	
+.	Jennifer "Jenn" Pfotenauer	('99)	
+>>7	mainphotos	xsm		
+.	Reiko Osaki	('00)	
+.	Michelle Tsuda	('99)	
+.	Mickayela Beatty	('98)	
+.	Emily Roley	('99)	
+.	Becky Novotny	('00)	
+>>8	mainphotos	medlg		
+.	Lizzie (Barnett) Sargeant	
+.	Lynn Chiu	('00)	
+.	Helen Lily Huang	
+.	Glory "Lani" Leilani Ludwick	
+.	Wendy Marinaccio	('00)	
+>>9	mainphotos	xsm		
+.	Maria Reese	('02)	
+.	Shiao Chen	('02)	
+.	Campbell Miller	('02)	
+.	Esther Cohen	('02)	
+.	Rhiannon Meier	('02)	
+
+
+-2000---------------------------------------------------------
+>>0	mainphotos	xsm	
+.	Jenny Steiger	('03)		
+.	Amanda Ose	('03)		
+.	Lisa Hladik	('01)		
+.	Yael Schrager	('03)		
+.	Pamela Jones	('02)	
+>>1	mainphotos	xsm	
+.	Nikki Borchardt	('04)	
+.	Amy Kurren	('04)	
+.	Lauren Uyeshiro	('04)	
+.	Veronica Flores	('04)	
+.	Emma James	('02)	
+>>2	mainphotos	sm	
+.	Valerie Rozycki	('05)	
+.	Erin Christofferson	('03)		
+.	Nevenka Mattenet	('04)	
+.	Malia Skaer	('05)	
+.	Marisa Dye	('03)			
+>>3	mainphotos	xsm		
+.	Melanie Atmadja	('06)	 
+.	Veronica Spindler	('05)	
+.	Tracy Conner	('06)	 
+.	Clare Tobin	('06)	
+.	Michelle Miller	('06)	
+>>4	mainphotos	med	
+.	Megan Hoarfrost	('07)	
+.	Lisa Asari	('07)	
+.	Nicole D'arcy	('07)	
+.	Jessica (Whitten) Gustafson	('07)	
+.	Carrie Edwards	('07)	
+>>5	mainphotos	xsm	
+.	Maili Alvarado	('08)	
+.	Lauri Anderson	('08)	
+.	Liz Schackmann	('08)	
+.	Katie Ambrose	('08)	
+.	Stacie Vilendrer	('08)	
+>>6	mainphotos	sm	
+.	Brittiany Broadwater	('09)	
+.	Amy Kurzweil	('09)	
+.	Annemarie Estess	('09)	
+.	Lauren Smith	('09)	
+.	Abby Williams	('09)	
+>>7	mainphotos	xsm	
+.	Jessica Finley	('09)	
+.	Katie Peterson	('10)	
+.	Christina Landry	('10)	
+.	Jessica Murphy	('10)	
+.	Maddie Graber	('10)	
+>>8	mainphotos	sm	
+.	Jennifer Lee	('11)	
+.	Ali Romer	('11)	
+.	Taylor Phillips	('10)	
+.	Sydney Gulbronson	('11)	
+.	Taylor Thibodeaux	('11)	
+>>9	mainphotos	sm	
+.	Shea Ritchie	('12)	
+.	Paula Markey	('10)	
+.	Nia Minor	('12)	
+.	Kim Souza	('11)	
+.	Elise Birkhofer	('12)	
+
+
+-2010---------------------------------------------------------
+>>0	mainphotos	sm	
+.	Alina Pimentel	('13)		
+.	Carolyn "CC" Chiu	('13)		
+.	Sarah Chang	('13)		
+.	Melissa Schwarz	('11)		
+.	Alex Nana-Sinkam	('13)		
+
+>>1	mainphotos	sm	
+.	Paula Obler		
+.	Jessica Jin		
+.	Clare Bailey		
+.	Jessica Savoie		
+.	Danna Seligman	
+
+>>2	none	no	
+.	Tayna Gonzalez ('15)	
+.	Emily Giglio ('15)	
+.	Dafna Szafer ('15)	
+.	Amber Qui&ntilde;ones ('15)	
+.	Christine Chung ('13)	
+
