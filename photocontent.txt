@@ -9,10 +9,23 @@ ______ R	marker for reunion pics for past section
 -1950------------------------------------------------------------------------------------------------------------------
 	
 -1960------------------------------------------------------------------------------------------------------------------
+>>0	mainphotos	
+.	1.jpg		x	
+.	2.jpg		x	
+.	3.jpg	(Suzanne, Patty, Kathleen, Lana and Wendy)	x	
+
+>>1	mainphotos	
+.	3.jpg	(Toni, Diana and Judy)	x	
+.	2t.jpg	(Judy Webb)	3t.jpg	
+.	2.jpg	(Judy, Susi, Diana, Dicky, Toni)	x	
+.	4.jpg	(Dicky, Diana, Susi, Toni, Judy)	x	
+.	1.jpg	(Mary, Toni, Diana, Judy and Susi)	x	
+.	1t.jpg	(Judy and Ed Cummings)	x	
+
 		
 -1970------------------------------------------------------------------------------------------------------------------
 
->>0	mainphotos
+>>0	mainphotos	
 .	2.jpg	(1971 Rose Bowl Parade)	x	
 .	5.jpg	(Rose Bowl Sideline, 1971)	x	
 .	1.jpg	(Jeannette, Ken Peterson, Mary, Susie, Irene, Geordie Lawry, and Susan)	x	
@@ -391,6 +404,7 @@ ______ R	marker for reunion pics for past section
 .	7.jpg	(Fall 2012)	x	
 .	8.jpg	(Fall 2012)	x	
 	
+>>3	none	
 
 R ------------------------------------ REUNION PICS ----------------------------------------------------
 .	dollie-2011.jpg	(Dollie Reunion, 2011 - &copy; Al Ponce)	x	
@@ -398,6 +412,7 @@ R ------------------------------------ REUNION PICS ----------------------------
 .	dollie-2010.jpg	(Dollie Reunion, 2010 - &copy; Al Ponce)	x	
 .	dollie-2009.jpg	(Dollie Reunion, 2009 - &copy; Al Ponce)	x	
 .	dollie-2008.jpg	(Dollie Reunion, 2008 - &copy; Al Ponce)	x	
+.	reunion-2008.jpg	(Kathy & Judy 45th Class Reunion, 2008)	x	
 .	band-2007-3.jpg	(LSJUMB - Band Reunion, 2007, Photo &copy; Robby Beyers)	x	
 .	band-2007.jpg	(Rank Up - Band Reunion, 2007, Photo &copy; Al Ponce)	x	
 .	band-2007-2.jpg	(Band Reunion, 2007, Photo &copy; Robby Beyers)	x	
@@ -406,6 +421,8 @@ R ------------------------------------ REUNION PICS ----------------------------
 .	dollie-2005-3.jpg	(Dollie Reunion, 2005, Photo &copy; Al Ponce)	x	
 .	band-2003-5.jpg	(Nearly 75 Dollies - Band Reunion, 2003 - &copy; Robby Beyers)	x	
 .	band-2003-4.jpg	(Rankup at Band Reunion, 2003)	x	
+.	band-2003-7.jpg	(Wendy, Kathy, Judy with Al Hildebrand at 40th reunion, 2003)	x	
+.	band-2003-6.jpg	(Lynn Cipolat '62-'63, Kathy Page Clark '60-'61, Judy Webb '61-'62, Wendy Anderson '60-'61, Band Reunion 2003)	x	
 .	band-1998-3.jpg	(Dollies - Band Reunion, 1998 - &copy; Robby Beyers)	x	
 .	band-1998-2.jpg	(Rose Bowl Kicks - Band Reunion, 1998 - &copy; Robby Beyers)	x	
 .	band-1993-2.jpg	(Dollies - Band Reunion, 1993 - &copy; Robby Beyers)	x	

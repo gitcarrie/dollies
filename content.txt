@@ -33,10 +33,10 @@ t	The 1954 Pom-Pon Girls (provided by Pat Lowe):
 ~	default		
 
 -1960------------------------------------------------------------------------------------------------------------------
->>0	main	lg	
-~	default		
->>1	main	med
-~	default			
+>>0	mainphotos	lg	
+~	reg	 (Suzanne, Patty, Kathleen, Lana and Wendy)	
+>>1	mainphotos	med	
+~	reg	 (Mary, Toni, Diana, Judy and Susi)	
 >>2	main	medlg	
 ~	default			
 >>3	main	medlg
@@ -380,6 +380,9 @@ t--	Original Choreography:
 ~	reg	(Paula, Jessica J, Clare, Jessica S, Danna)	
 |	Dollie Daddy:	Brian Kooiman	
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
->>2	none	
+>>2	mainphotos sm		
 ~	reg	(Christine, Amber, Dafna, Emily, Tanya)	
 |	Dollie Mommy:	Jilliane Bruffey	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>3	main		
+~	reg	(Heather, Courtney, Leigh, Amelia and Lindsay - &copy; Robby Beyers)	

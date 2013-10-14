@@ -104,14 +104,14 @@
 					
 					$pastindex = 1;
 					$nextindex = 1;
-					if($year1 < '1973' || $year1 == '1984') $pastindex = 0;
-					if($year2 < '1972' || $year2 == '1983') $nextindex = 0;
+					if($year1 < '1973' && $year1 != '1961' && $year1 != '1962' || $year1 == '1984') $pastindex = 0;
+					if($year2 < '1972' && $year1 != '1959' && $year1 != '1960' || $year2 == '1983') $nextindex = 0;
 
 					
 					if($year1 > '1954') echo 	'<a href = "tabs.php?pg=0&ind=' . $pastindex . '&tab=main&dec=' . $pastdec . '&yea=' . $pastyear . '" target="inline">
 											&#8249;&#8249; previous</a><span class="navdivider"> | </span>';
 					echo '<strong>' . $year1 . ' - ' . $year2 . '</strong>';
-					if($year2 < '2011') echo 	'<span class="navdivider"> | </span><a href = "tabs.php?pg=0&ind=' . 
+					if($year2 < '2013') echo 	'<span class="navdivider"> | </span><a href = "tabs.php?pg=0&ind=' . 
 											$nextindex . '&tab=main&dec=' . $nextdec . '&yea=' . $nextyear . '" target="inline">next &#8250;&#8250;';
 				echo '</div>';
 			}

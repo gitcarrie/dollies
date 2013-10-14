@@ -33,13 +33,13 @@
 .	Nancy Young	
 
 -1960---------------------------------------------------------
->>0	main	lg	
+>>0	mainphotos	lg	
 .	Wendy (Anderson ) Bianchi	
 .	Patricia (Murman) Burbank	
 .	Kathleen (Page) Elliott	
 .	Lana (Caffey) Hayward	
 .	Suzanne (Horney) L. Sheppard	
->>1	main	med	
+>>1	mainphotos	med	
 .	Mary Dicky Barkley	
 .	Diana (Deasy) Creighton	
 .	Toni R. (Williamson) Croft	
@@ -360,10 +360,16 @@
 .	Jessica Savoie		
 .	Danna Seligman	
 
->>2	none	no	
-.	Tayna Gonzalez ('15)	
-.	Emily Giglio ('15)	
-.	Dafna Szafer ('15)	
-.	Amber Qui&ntilde;ones ('15)	
-.	Christine Chung ('13)	
+>>2	mainphotos	sm	
+.	Tayna Gonzalez	('15)	
+.	Emily Giglio	('15)	
+.	Dafna Szafer	('15)	
+.	Amber Qui&ntilde;ones	('15)	
+.	Christine Chung	('13)	
 
+>>3	none	no	
+.	Lindsay Fiorentino	
+.	Heather Glenny	
+.	Leigh Kinney	
+.	Courtney Yang	
+.	Amelia Chen	

@@ -83,7 +83,7 @@
 				echo '<div align="center"><br><img src="images/top/present.jpg" ></font></em><br></div>';
 				$sideimage = 'presentside';
 				if($tab == '') $tab = 'main';
-				$source = 'tabs.php?pg=1&ind=1&tab=' . $tab . '&dec=2010&yea=2'; // Change date
+				$source = 'tabs.php?pg=1&ind=0&tab=' . $tab . '&dec=2010&yea=3'; // Change date
 			}
 			else {
 				echo '<br><span class="error">:: page not found ::</span>';
