@@ -27,7 +27,7 @@ t	The 1954 Pom-Pon Girls (provided by Pat Lowe):
 >>6	mainphotos	lg		
 ~	reg	(Sally, Joni, Deanna, Maureen and Linda)		
 >>7	mainphotos	lg
-~	reg	(Front: Luana and Margi, Back: Sonya, Sandy and Connie)		
+~	reg	(Back Row: Sonya, Sandy and Connie, Front Row: Luana and Margi)		
 >>8	main	med	
 ~	default		
 >>9	main	med	
