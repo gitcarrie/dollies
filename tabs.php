@@ -99,13 +99,13 @@
 						$nextyear = '0';
 						$nextdec = $decade + 10;
 					}
-					if($decade == '1950' && $year == '7') $pastyear = 4;
-					if($decade == '1950' && $year == '4') $nextyear = 7;
+					if($decade == '1950' && $year == '6') $pastyear = 4;
+					if($decade == '1950' && $year == '4') $nextyear = 6;
 					
 					$pastindex = 1;
 					$nextindex = 1;
-					if($year1 < '1973' && $year1 != '1961' && $year1 != '1962' || $year1 == '1984') $pastindex = 0;
-					if($year2 < '1972' && $year1 != '1959' && $year1 != '1960' || $year2 == '1983') $nextindex = 0;
+					if($year1 < '1973' && $year1 != '1961' && $year1 != '1962' && $year1 != '1957' && $year1 != '1958' || $year1 == '1984') $pastindex = 0;
+					if($year2 < '1972' && $year1 != '1959' && $year1 != '1960' && $year1 != '1954' && $year1 != '1956' || $year2 == '1983') $nextindex = 0;
 
 					
 					if($year1 > '1954') echo 	'<a href = "tabs.php?pg=0&ind=' . $pastindex . '&tab=main&dec=' . $pastdec . '&yea=' . $pastyear . '" target="inline">

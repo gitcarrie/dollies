@@ -290,9 +290,9 @@ else {
 	echo '<div class="content2">
 	 	 <span class="title">The Stanford Dollies<br>' . $yearstart . ' - ' . $yearend . '<br></span>';
 		 
-		 if($yearstart >= '1970' && $yearstart != '1983' && $yearstart != '1971' && $yearstart !='2013' || $yearstart == '1960' || $yearstart == '1961') echo '<a href="tabs.php?pg=0&ind=1&tab=photos&dec=' . $decade . '&yea=' . $year . '" target="inline" title="Click Here for More Photos of this Year!">';
+		 if($yearstart >= '1970' && $yearstart != '1983' && $yearstart != '1971' && $yearstart !='2013' || $yearstart == '1960' || $yearstart == '1961'|| $yearstart == '1956'|| $yearstart == '1957') echo '<a href="tabs.php?pg=0&ind=1&tab=photos&dec=' . $decade . '&yea=' . $year . '" target="inline" title="Click Here for More Photos of this Year!">';
 		 echo '<img src="photos/group/dollie-' . $groupimage . '.jpg" border="0"><br>';  
-		 if($yearstart >= '1970' && $yearstart != '1983' && $yearstart != '1971'&& $yearstart !='2013'  || $yearstart == '1960' || $yearstart == '1961') echo '</a>';
+		 if($yearstart >= '1970' && $yearstart != '1983' && $yearstart != '1971'&& $yearstart !='2013'  || $yearstart == '1960' || $yearstart == '1961'|| $yearstart == '1956'|| $yearstart == '1957') echo '</a>';
 		 if($imagecaption != '') echo '<span class="caption">' . $imagecaption . '</span><br><br>';
 		 
 		?>  <!--[if IE]><table class="nametable"><tr><td><![endif]--> <?

@@ -12,13 +12,18 @@
 .	Katie Seaver	
 .	Lynn Sellman	
 >>5	none	
->>6	none	
->>7	main	lg	
-.	Sonya (Davison) Lamb	
-.	Margaret (Mix) Gould	
-.	Cornelia "Connie" (King) Josse	
-.	Luana (Gough) Langlois	
-.	Sandra (Hogan) Robbins Lier	
+>>6	mainphotos	med	
+.	Sally Wolfe Dole	
+.	Joni Balling Rehnborg	
+.	Deanna Amos Tarr	
+.	Maureen O'Brien Sullivan	
+.	Linda Player Kaiser	
+>>7	mainphotos	med	
+.	Sonya Davidson Lamb	
+.	Margi Mix Gould	
+.	Connie King Turkington	
+.	Luana Gough	
+.	Sandy Hogan	
 >>8	main	med	
 .	Barbara L. Baer	
 .	Caryl (Ely) Chambers	
@@ -42,9 +47,9 @@
 >>1	mainphotos	med	
 .	Mary Dicky Barkley	
 .	Diana (Deasy) Creighton	
-.	Toni R. (Williamson) Croft	
-.	Susie J. (Quigley) Matthews	
-.	Judith N. Webb	
+.	Toni (Williamson) Croft	
+.	Susie (Quigley) Matthews	
+.	Judy Webb	
 >>2	main	medlg	
 .	Nancy (Albert ) Albert-James	
 .	Lynn (Cipolat) Archer	

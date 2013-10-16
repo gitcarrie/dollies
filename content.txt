@@ -24,13 +24,15 @@ t	The 1954 Pom-Pon Girls (provided by Pat Lowe):
 .	<strong>A personal note:</strong> Pat's daughter, Kathy Lowe, was a Dollie in 1984-85.  Which makes them the only mother/daughter dollies.	
 +1955+++++++++++++++++++++++++++++++++++++++++++++++++++++++
 >>5	none	
->>6	none	
->>7	main	lg
-~	default		
+>>6	mainphotos	lg		
+~	reg	(Sally, Joni, Deanna, Maureen and Linda)		
+>>7	mainphotos	lg
+~	reg	(Front: Luana and Margi, Back: Sonya, Sandy and Connie)		
 >>8	main	med	
 ~	default		
 >>9	main	med	
 ~	default		
+
 
 -1960------------------------------------------------------------------------------------------------------------------
 >>0	mainphotos	lg	
