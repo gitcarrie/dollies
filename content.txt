@@ -386,5 +386,5 @@ t--	Original Choreography:
 ~	reg	(Christine, Amber, Dafna, Emily, Tanya)	
 |	Dollie Mommy:	Jilliane Bruffey	
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
->>3	main		
-~	reg	(Heather, Courtney, Leigh, Amelia and Lindsay - &copy; Robby Beyers)	
+>>3	mainphotos	sm			
+~	reg	(Leigh, Heather, Amelia, Courtney, and Lindsay at the 100th Rose Bowl - &copy; Robby Beyers)	

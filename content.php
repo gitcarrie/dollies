@@ -74,10 +74,10 @@ if($index == 3) {
 
 
 elseif($tab == 'auditions') {
-	echo '<p align="center"><span class="title">2014-2015 Dollie Auditions</span><br></p>';//<br> and General Audition Information!
+	echo '<p align="center"><span class="title">2015-2016 Dollie Auditions</span><br></p>';//<br> and General Audition Information!
 	if($auditionseason == false) {
 		echo
-			'<div class="futurecontent">2014-2015 Stanford Dollie Auditions begin early next year!
+			'<div class="futurecontent">2015-2016 Stanford Dollie Auditions begin early next year!
 				Until then, please feel free to browse the <a href="#generalinfo">general information</a> below, or 
 				<a href="tabs.php?pg=2&ind=2&tab=contacts&dec=' . $decade . '&yea=' . $year . '" target="inline">contact</a> a 
 				current dollie or LSJUMB assistant manager.
@@ -86,7 +86,7 @@ elseif($tab == 'auditions') {
 	
 	if($auditionseason == true) {
 		echo 
-			'<div class="futurecontent">Auditions for the 2014-2015 Season will take place in January/February!  
+			'<div class="futurecontent">Auditions for the 2015-2016 Season will take place in January/February!  
 			Please refer to the schedule below for relevant dates and times and browse the <a href="#generalinfo">general information</a> section to learn more about the audition process. Feel free to 
 			<a href="tabs.php?pg=2&ind=2&tab=contacts&dec=' . $decade . '&yea=' . $year . '" target="inline">contact</a> 
 			the current dollies or LSJUMB assistant manager with any questions.
@@ -220,27 +220,26 @@ elseif($page == 0 && $decade== '')  {
 // ***********************************************  FUTURE SECTION MAIN PAGE *********************************
 elseif($page == 2 && $tab = 'main') {
 
-/*	echo '<p align="center">
-	<span class="title">Congratulations to the <br> 2011-2012 Stanford Dollies!<br></span><br>
-	<img src="images/5dollieslogo.jpg"><br></p>';
+	echo '<p align="center">
+	<span class="title">Congratulations to the <br> 2014-2015 Stanford Dollies!</span><br></p>';
 	echo '<p align="center">';
 		?>  <!--[if IE]><table class="nametable"><tr><td><![endif]--> <?
 		echo '<ul class="nametable">';
-			echo '<li>Paula Obler</li>
-				<li>Jessica Jin</li>
-				<li>Clare Bailey</li>
-				<li>Jessica Savoie</li>
-				<li>Danna Seligman</li>';
-		echo '</ul>'; 
-*/		
-		/* echo '<center><img src="images/5dollieslogo.jpg"><br></center>'; */
+			echo '<li>Erika Nguyen</li>
+				<li>Aubriana Menendez</li>
+				<li>Martha Collins</li>
+				<li>Shelby Mynhier</li>
+				<li>Jordan Huelskamp</li>';
+		echo '</ul><br>'; 
+		
+		/*echo '<center><img src="images/5dollieslogo.jpg"><br></center>'; */
 		
 		?>  <!--[if IE]></td></tr></table><![endif]--> 
          		<!--</p><p align="center">These Dollies will make their big debut <br>at Dollie Splash this May!</p>-->
 		<?
 
 	echo '<div class="futurecontent2">
-			 <ul class="futureinfolist"><span class="boldtext">Interested in the 2014-2015 Stanford Dollie Auditions? </span>
+			 <ul class="futureinfolist"><span class="boldtext">Interested in the 2015-2016 Stanford Dollie Auditions? </span>
 			 <li>Explore the above tabs to find more information on <a href="tabs.php?pg=2&ind=2&tab=auditions&dec=' . $decade . '&yea=' . $year . '" target="inline">this year\'s auditions.</a> </li>
 			 <li>Read "The Stanford Daily" articles about the <a href="http://www.stanforddaily.com/cgi-bin/?p=1030158">2009-2010</a> 
 			 Stanford Dollies, and their <a href="http://www.stanforddaily.com/cgi-bin/?p=1030482">debut</a>.
@@ -290,9 +289,10 @@ else {
 	echo '<div class="content2">
 	 	 <span class="title">The Stanford Dollies<br>' . $yearstart . ' - ' . $yearend . '<br></span>';
 		 
-		 if($yearstart >= '1970' && $yearstart != '1983' && $yearstart != '1971' && $yearstart !='2013' || $yearstart == '1960' || $yearstart == '1961'|| $yearstart == '1956'|| $yearstart == '1957') echo '<a href="tabs.php?pg=0&ind=1&tab=photos&dec=' . $decade . '&yea=' . $year . '" target="inline" title="Click Here for More Photos of this Year!">';
+		 /* If current year doesn't have photos, add their year start as an item */
+		 if($yearstart >= '1970' && $yearstart != '1983' && $yearstart != '1971' && $yearstart !='2014' || $yearstart == '1960' || $yearstart == '1961'|| $yearstart == '1956'|| $yearstart == '1957') echo '<a href="tabs.php?pg=0&ind=1&tab=photos&dec=' . $decade . '&yea=' . $year . '" target="inline" title="Click Here for More Photos of this Year!">';
 		 echo '<img src="photos/group/dollie-' . $groupimage . '.jpg" border="0"><br>';  
-		 if($yearstart >= '1970' && $yearstart != '1983' && $yearstart != '1971'&& $yearstart !='2013'  || $yearstart == '1960' || $yearstart == '1961'|| $yearstart == '1956'|| $yearstart == '1957') echo '</a>';
+		 if($yearstart >= '1970' && $yearstart != '1983' && $yearstart != '1971'&& $yearstart !='2014'  || $yearstart == '1960' || $yearstart == '1961'|| $yearstart == '1956'|| $yearstart == '1957') echo '</a>';
 		 if($imagecaption != '') echo '<span class="caption">' . $imagecaption . '</span><br><br>';
 		 
 		?>  <!--[if IE]><table class="nametable"><tr><td><![endif]--> <?

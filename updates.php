@@ -1,6 +1,8 @@
 <!-- note for this section, place "x" in last position if goes to past,present,future main, otherwise place actual extension to page to go directly to specific subsection. -->
 <?
 $i = 0;
+$updates[$i] = 'present	new photos from 2013-2014 Dollies!	(2.23.14)	x	'; $i++;
+$updates[$i] = 'present	Introducing your 2014-2015 Dollies!	(2.23.14)	x	'; $i++;
 $updates[$i] = 'past	new photos from \'57 and \'58!	(10.15.13)	x	'; $i++;
 $updates[$i] = 'past	new photos from \'60 and \'61!	(10.14.13)	x	'; $i++;
 $updates[$i] = 'present	the 2013-2014 Dollies!	(10.14.13)	x	'; $i++;

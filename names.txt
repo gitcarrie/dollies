@@ -372,9 +372,16 @@
 .	Amber Qui&ntilde;ones	('15)	
 .	Christine Chung	('13)	
 
->>3	none	no	
-.	Lindsay Fiorentino	
-.	Heather Glenny	
-.	Leigh Kinney	
-.	Courtney Yang	
-.	Amelia Chen	
+>>3	mainphotos	no	
+.	Lindsay Fiorentino	('16)	
+.	Heather Glenny	('16)	
+.	Leigh Kinney	('16)	
+.	Courtney Yang	('16)	
+.	Amelia Chen	('16)	
+
+>>4	none	no	
+.	Erika Nguyen		
+.	Aubriana Menendez		
+.	Martha Collins		
+.	Shelby Mynhier		
+.	Jordan Huelskamp		

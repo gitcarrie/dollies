@@ -1,4 +1,4 @@
-<?php 
+<?
 $to = $_REQUEST['sendto'] ; 
 $from = $_REQUEST['Email'] ; 
 $name = $_REQUEST['Name'] ; 
@@ -14,8 +14,9 @@ if($to == 2) {
 	$totext = 'Stanford Dollie Webmaster';	
 }
 if($to == 3) {
-	$sendto = 'taynagon@stanford.edu, egiglio@stanford.edu, dszafer@stanford.edu, amberq@stanford.edu, cchung91@stanford.edu';
-	$totext = 'Current Stanford Dollies';	
+	$sendto = 'stanforddollies@gmail.com, cae@stanfordalumni.org';
+	$totext = 'Current Stanford Dollies';
+}
 
 $fields = array(); 
 $fields{"Name"} = "Name"; 
@@ -30,16 +31,14 @@ $headers2 = "From: noreply@dollies.stanford.edu";
 $subject2 = "Thank you for contacting the Stanford Dollies"; 
 $autoreply = "Confirmation Email:\nThank you for contacting \"" . $totext . "\" from the Stanford Dollies web site (http://dollies.stanford.edu).  Your message has been sent, and we hope to get back to you soon.";
 
-if($from == '') {print "You have not entered an email, please go back and try again";} 
+if($from == '') print "You have not entered an email, please go back and try again"; 
 else { 
-if($name == '') {print "You have not entered a name, please go back and try again";} 
-else { 
-$send = mail($sendto, $subject, $body, $headers); 
-$send2 = mail($from, $subject2, $autoreply, $headers2); 
-if($send) 
-{header( "Location: content.php?pg=1&ind=3&tab=contacts&sel=sent" );} 
-else 
-{print "We encountered an error sending your mail, please notify webmaster@YourCompany.com"; } 
-}
-}
+	if($name == '') { print "You have not entered a name, please go back and try again"; } 
+	else { 
+		$send = mail($sendto, $subject, $body, $headers); 
+		$send2 = mail($from, $subject2, $autoreply, $headers2); 
+		if($send)  { header( "Location: content.php?pg=1&ind=3&tab=contacts&sel=sent" ); } 
+		else  { print "We encountered an error sending your mail, please notify webmaster@YourCompany.com"; } 
+	}
+} 
 ?>

@@ -82,8 +82,8 @@
 			elseif($page == '1') { // THIS IS WHERE YOU SELECT THE CURRENT YEAR / PRESENT DOLLIES!
 				echo '<div align="center"><br><img src="images/top/present.jpg" ></font></em><br></div>';
 				$sideimage = 'presentside';
-				if($tab == '') $tab = 'main';
-				$source = 'tabs.php?pg=1&ind=0&tab=' . $tab . '&dec=2010&yea=3'; // Change date
+				$tab = 'main'; // hard coded this because it was driving me crazy
+				$source = 'tabs.php?pg=1&ind=1&tab=' . $tab . '&dec=2010&yea=3'; // Change date, and change ind depending on main or mainphotos
 			}
 			else {
 				echo '<br><span class="error">:: page not found ::</span>';

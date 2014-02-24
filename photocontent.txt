@@ -410,7 +410,17 @@ ______ R	marker for reunion pics for past section
 .	7.jpg	(Fall 2012)	x	
 .	8.jpg	(Fall 2012)	x	
 	
->>3	none	
+>>3	mainphotos	
+.	1.jpg	(Pac-12 Championship Stanford v. ASU, Fall 2013 - Photo &copy; Robby Beyers )	x	
+.	2.jpg	(Fall 2013 - Photo &copy; Robby Beyers)	x	
+.	3.jpg	(Before The Rose Parade, January 2014 - Photo &copy; Robby Beyers)	x	
+.	5.jpg	(Fall 2013 - &copy; Al Ponce)	x	
+.	6.jpg	(LSJUMB 50th Reunion, Fall 2013 - &copy; Al Ponce)	x	
+.	7.jpg	(Dollie Splash, Spring 2013 - Photo &copy; Yanessa Lasley)	x	
+.	8.jpg	(Fall 2013 - Photo &copy; Robby Beyers)	x	
+.	9.jpg	(Fall 2013 - &copy; Al Ponce)	x	
+.	10.jpg	(Fall 2013 - Photo &copy; Robby Beyers)	x	
+
 
 R ------------------------------------ REUNION PICS ----------------------------------------------------
 .	dollie-2011.jpg	(Dollie Reunion, 2011 - &copy; Al Ponce)	x	
