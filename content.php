@@ -31,6 +31,8 @@
 	if($groupimage == '99100') $groupimage = '9900';
 	
 	$auditionseason = false;		// Indicates if information is present for tryouts
+	
+	$curryear = '2015'; // UPDATE FOR CURRENT YEAR!
 
 ?>
 </head>
@@ -77,11 +79,7 @@ elseif($tab == 'auditions') {
 	echo '<p align="center"><span class="title">2015-2016 Dollie Auditions</span><br></p>';//<br> and General Audition Information!
 	if($auditionseason == false) {
 		echo
-			'<div class="futurecontent">2015-2016 Stanford Dollie Auditions begin early next year!
-				Until then, please feel free to browse the <a href="#generalinfo">general information</a> below, or 
-				<a href="tabs.php?pg=2&ind=2&tab=contacts&dec=' . $decade . '&yea=' . $year . '" target="inline">contact</a> a 
-				current dollie or LSJUMB assistant manager.
-			</div>';
+			'<div class="futurecontent">For the most up-to-date information on Auditions, visit <a href="https://www.facebook.com/TheStanfordDollies" target="_blank">The Stanford Dollies Facebook Page</a>!</div>';
 		}
 	
 	if($auditionseason == true) {
@@ -117,11 +115,11 @@ elseif($tab == 'auditions') {
 			</p></div>';	
 		}
 		
-	echo		
+	/*echo		
 		'<p align="center"><br><span class="title">2010 Audition Video</span></p>
 		<div class="videobox">
 			<p align="center" ><object width="560" height="340"><param name="movie" value="http://www.youtube.com/v/Rc_b53HmJcw&hl=en_US&fs=1&rel=0"></param><param name="allowFullScreen" value="true"></param><param name="allowscriptaccess" value="always"></param><embed src="http://www.youtube.com/v/Rc_b53HmJcw&hl=en_US&fs=1&rel=0" type="application/x-shockwave-flash" allowscriptaccess="always" allowfullscreen="true" width="560" height="340"></embed></object></p>
-		</div>';
+		</div>';*/
 		
 		//2009 Video:
 		//<span class="title" font-size="10pt"><br>2010 Audition Video</span><br><br><object width="425" height="344">
@@ -144,7 +142,7 @@ elseif($tab == 'auditions') {
 			</p>
 			<p>
 				<span class="boldtext">When are workshops?<br></span>
-				Workshops are held in a dance studio (most recently in EPC) and are very similar to a dance class. 
+				Workshops are held in a dance studio and are very similar to a dance class. 
 				The current year of dollies will be there to help ProDos learn choreography, answer any questions and help them perfect their performance. 
 				Because the judging is left up to old dollies and band members, these workshops are casual and stress free!
 			</p>
@@ -220,6 +218,7 @@ elseif($page == 0 && $decade== '')  {
 // ***********************************************  FUTURE SECTION MAIN PAGE *********************************
 elseif($page == 2 && $tab = 'main') {
 
+	/*
 	echo '<p align="center">
 	<span class="title">Congratulations to the <br> 2014-2015 Stanford Dollies!</span><br></p>';
 	echo '<p align="center">';
@@ -231,8 +230,9 @@ elseif($page == 2 && $tab = 'main') {
 				<li>Shelby Mynhier</li>
 				<li>Jordan Huelskamp</li>';
 		echo '</ul><br>'; 
+		*/
 		
-		/*echo '<center><img src="images/5dollieslogo.jpg"><br></center>'; */
+		echo '<center><img src="images/5dollieslogo.jpg"><br></center>'; 
 		
 		?>  <!--[if IE]></td></tr></table><![endif]--> 
          		<!--</p><p align="center">These Dollies will make their big debut <br>at Dollie Splash this May!</p>-->
@@ -256,7 +256,7 @@ elseif($page == 2 && $tab = 'main') {
 				<span class="boldtext">Who are the Stanford Dollies?</span><br>
 				Each year, the Leland Stanford Junior University Marching Band is proud to present five divine divas of dance. 
 				Together, we make merry musical mayhem all over the Peninsula and the world. <strong>What are Dollies?</strong> Well, first of all, they are awesome. 
-				Secondarily they should not be confused with the Stanford Cheerleaders. 
+				Secondarily they are different from the Stanford Cheerleaders. 
 				<strong>Dollies dance to the live music of the band with choreography entirely of their own (and past Dollies\') design.</strong> 
 				Their style ranges from modern to ballet to jazz, but is always unique and impressive. A long Stanford tradition, 
 				the Dollies perform at athletic events of every ilk and at rallies with the LSJUMB. 
@@ -290,9 +290,9 @@ else {
 	 	 <span class="title">The Stanford Dollies<br>' . $yearstart . ' - ' . $yearend . '<br></span>';
 		 
 		 /* If current year doesn't have photos, add their year start as an item */
-		 if($yearstart >= '1970' && $yearstart != '1983' && $yearstart != '1971' && $yearstart !='2014' || $yearstart == '1960' || $yearstart == '1961'|| $yearstart == '1956'|| $yearstart == '1957') echo '<a href="tabs.php?pg=0&ind=1&tab=photos&dec=' . $decade . '&yea=' . $year . '" target="inline" title="Click Here for More Photos of this Year!">';
+		 if($yearstart >= '1970' && $yearstart != '1983' && $yearstart != '1971' && $yearstart != $curryear || $yearstart == '1960' || $yearstart == '1961'|| $yearstart == '1956'|| $yearstart == '1957') echo '<a href="tabs.php?pg=0&ind=1&tab=photos&dec=' . $decade . '&yea=' . $year . '" target="inline" title="Click Here for More Photos of this Year!">';
 		 echo '<img src="photos/group/dollie-' . $groupimage . '.jpg" border="0"><br>';  
-		 if($yearstart >= '1970' && $yearstart != '1983' && $yearstart != '1971'&& $yearstart !='2014'  || $yearstart == '1960' || $yearstart == '1961'|| $yearstart == '1956'|| $yearstart == '1957') echo '</a>';
+		 if($yearstart >= '1970' && $yearstart != '1983' && $yearstart != '1971'&& $yearstart != $curryear  || $yearstart == '1960' || $yearstart == '1961'|| $yearstart == '1956'|| $yearstart == '1957') echo '</a>';
 		 if($imagecaption != '') echo '<span class="caption">' . $imagecaption . '</span><br><br>';
 		 
 		?>  <!--[if IE]><table class="nametable"><tr><td><![endif]--> <?

@@ -388,3 +388,6 @@ t--	Original Choreography:
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 >>3	mainphotos	sm			
 ~	reg	(Leigh, Heather, Amelia, Courtney, and Lindsay at the 100th Rose Bowl - &copy; Robby Beyers)	
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+>>4	mainphotos	sm			
+~	reg	(Aubriana, Erika, Martha, Shelby, Jordan - &copy; Al Ponce)

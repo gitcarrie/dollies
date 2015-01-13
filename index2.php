@@ -11,6 +11,8 @@
 	$tab = strip_tags($_GET['tab']);		// Active Tab: 'main','photos','auditions', 'contacts'
 	$selected = strip_tags($_GET['sel']);	// Selected Recipient for contact form when applicable.
 	
+	$curryearstart = '4'; // CHANGE FOR NEW DOLLIE YEAR
+	
 ?>
 <head><title>Stanford Dollies - 
 <? 
@@ -83,7 +85,7 @@
 				echo '<div align="center"><br><img src="images/top/present.jpg" ></font></em><br></div>';
 				$sideimage = 'presentside';
 				$tab = 'main'; // hard coded this because it was driving me crazy
-				$source = 'tabs.php?pg=1&ind=1&tab=' . $tab . '&dec=2010&yea=3'; // Change date, and change ind depending on main or mainphotos
+				$source = 'tabs.php?pg=1&ind=1&tab=' . $tab . '&dec=2010&yea=' . $curryearstart; // Change date, and change ind depending on main or mainphotos
 			}
 			else {
 				echo '<br><span class="error">:: page not found ::</span>';

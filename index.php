@@ -19,7 +19,7 @@
 
   <div id="pastbutton" ><a href="index2.php?pg=0" title="Dollie History, and Past Dollie Info" onMouseOut="MM_swapImgRestore()" 
      onMouseOver="MM_swapImage('past','','images/main/past-red.gif',1)"><img src="images/main/past-white.gif" name="past" border="0"></a></div>
-  <div id="presentbutton"><a href="index2.php?pg=1" title="The current Dollies, 2012-2013" onMouseOut="MM_swapImgRestore()" 
+  <div id="presentbutton"><a href="index2.php?pg=1" title="The current Dollies" onMouseOut="MM_swapImgRestore()" 
      onMouseOver="MM_swapImage('present','','images/main/present-red.gif',1)"><img src="images/main/present-white.gif" name="present" border="0"></a></div>
   <div id="futurebutton"><a href="index2.php?pg=2" title="Audition Information" onMouseOut="MM_swapImgRestore()" 
   	onMouseOver="MM_swapImage('future','','images/main/future-red.gif',1)"><img src="images/main/future-white.gif" name="future" border="0"></a></div>

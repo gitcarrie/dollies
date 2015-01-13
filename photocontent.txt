@@ -421,6 +421,16 @@ ______ R	marker for reunion pics for past section
 .	9.jpg	(Fall 2013 - &copy; Al Ponce)	x	
 .	10.jpg	(Fall 2013 - Photo &copy; Robby Beyers)	x	
 
+>>4	mainphotos	
+.	1.jpg	(Big Game, Fall 2014 - &copy; Al Ponce )	x	
+.	2.jpg	(Fall 2014 - &copy; Robby Beyers)	x	
+.	3.jpg	(Big Game, Fall 2014 - &copy; Al Ponce)	x	
+.	4.jpg	(Fall 2014 - &copy; Robby Beyers)	x	
+.	5.jpg	(Fall 2014 - &copy; Al Ponce)	x	
+.	6.jpg	(Fall 2014  - &copy; Al Ponce)	x	
+.	7.jpg	(Fall 2014 - &copy; Al Ponce)	x	
+.	8.jpg	(Fall 2014 - &copy; Al Ponce)	x		
+
 
 R ------------------------------------ REUNION PICS ----------------------------------------------------
 .	dollie-2011.jpg	(Dollie Reunion, 2011 - &copy; Al Ponce)	x	

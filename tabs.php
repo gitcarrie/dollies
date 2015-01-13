@@ -13,6 +13,8 @@
 	$index = strip_tags($_GET['ind']);		// Tab Setup: 0, 1, 2, 3 => main, mainphotos, future, contact
 	$tab = strip_tags($_GET['tab']);		// Active Tab: 'main','photos','auditions', 'contacts'
 	$selected = strip_tags($_GET['sel']);	// Selected Recipient for contact form when applicable.
+	
+	$maxyear = '2014'; // UPDATE ME!!!   Adjust to match year for last year's dollies
 		
 	if($index == '0') $tab = 'main';
 ?>
@@ -111,7 +113,7 @@
 					if($year1 > '1954') echo 	'<a href = "tabs.php?pg=0&ind=' . $pastindex . '&tab=main&dec=' . $pastdec . '&yea=' . $pastyear . '" target="inline">
 											&#8249;&#8249; previous</a><span class="navdivider"> | </span>';
 					echo '<strong>' . $year1 . ' - ' . $year2 . '</strong>';
-					if($year2 < '2013') echo 	'<span class="navdivider"> | </span><a href = "tabs.php?pg=0&ind=' . 
+					if($year2 < $maxyear) echo 	'<span class="navdivider"> | </span><a href = "tabs.php?pg=0&ind=' . 
 											$nextindex . '&tab=main&dec=' . $nextdec . '&yea=' . $nextyear . '" target="inline">next &#8250;&#8250;';
 				echo '</div>';
 			}

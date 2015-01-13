@@ -1,18 +1,19 @@
 <!-- note for this section, place "x" in last position if goes to past,present,future main, otherwise place actual extension to page to go directly to specific subsection. -->
 <?
 $i = 0;
-$updates[$i] = 'present	new photos from 2013-2014 Dollies!	(2.23.14)	x	'; $i++;
-$updates[$i] = 'present	Introducing your 2014-2015 Dollies!	(2.23.14)	x	'; $i++;
+$updates[$i] = 'present	new photos from 2014-2015 Dollies!	(1.13.15)	x	'; $i++;
+$updates[$i] = 'past	new photos from 2013-2014 Dollies!	(2.23.14)	x	'; $i++;
+$updates[$i] = 'past	Introducing your 2014-2015 Dollies!	(2.23.14)	x	'; $i++;
 $updates[$i] = 'past	new photos from \'57 and \'58!	(10.15.13)	x	'; $i++;
 $updates[$i] = 'past	new photos from \'60 and \'61!	(10.14.13)	x	'; $i++;
-$updates[$i] = 'present	the 2013-2014 Dollies!	(10.14.13)	x	'; $i++;
+$updates[$i] = 'past	the 2013-2014 Dollies!	(10.14.13)	x	'; $i++;
 $updates[$i] = 'present	Follow the Stanford Dollies!	(10.3.12)	x	'; $i++;
-$updates[$i] = 'present	new photos from 2012-2013 Dollies!	(10.3.12)	x	'; $i++;
-$updates[$i] = 'present	new photos from 2011-2012 Dollies!	(11.27.11)	x	'; $i++;
+$updates[$i] = 'past	new photos from 2012-2013 Dollies!	(10.3.12)	x	'; $i++;
+$updates[$i] = 'past	new photos from 2011-2012 Dollies!	(11.27.11)	x	'; $i++;
 $updates[$i] = 'past	new photos from 2010 & 2011 reunions	(4.25.11)	x	'; $i++;
 $updates[$i] = 'future	Announcment of 2011-2012 Dollies!	(4.25.11)	x	'; $i++;
 $updates[$i] = 'past	new photos of the 1970-1971 Dollies	(4.25.11)	x	'; $i++;
-$updates[$i] = 'present	new photos of the 2010-2011 Dollies!	(10.19.10)	index2.php?pg=1&ind=1&tab=photos&dec=2000&yea=9	'; $i++;
+$updates[$i] = 'past	new photos of the 2010-2011 Dollies!	(10.19.10)	index2.php?pg=1&ind=1&tab=photos&dec=2000&yea=9	'; $i++;
 $updates[$i] = 'past	Memoirs of the 1970-1971 Dollies!	(3.18.10)	x	'; $i++;
 $updates[$i] = 'future	Announcment of 2010-2011 Dollies!	(2.21.10)	x	'; $i++;
 $updates[$i] = 'past	new photos of 1970-1971 Dollies	(2.21.10)	index2.php?pg=0&ind=1'; $i++;

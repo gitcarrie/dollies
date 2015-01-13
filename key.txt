@@ -7,3 +7,12 @@ sp (special)	=>	0 = past		1 = present		2 = contacts
 dec (decade)	=>	1950 to 2000
 yea (year)	=>	0 to 9
 sel (selected)	=>	auditions, 
+
+
+For new year updates!!!
+index2.php
+content.php
+tabs.php
+content.txt
+photonames.txt
+names.txt
