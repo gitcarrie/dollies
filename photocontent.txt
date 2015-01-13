@@ -424,11 +424,11 @@ ______ R	marker for reunion pics for past section
 >>4	mainphotos	
 .	1.jpg	(Big Game, Fall 2014 - &copy; Al Ponce )	x	
 .	2.jpg	(Fall 2014 - &copy; Robby Beyers)	x	
-.	3.jpg	(Big Game, Fall 2014 - &copy; Al Ponce)	x	
+.	3.jpg	(Fall 2014 - &copy; Al Ponce)	x	
 .	4.jpg	(Fall 2014 - &copy; Robby Beyers)	x	
 .	5.jpg	(Fall 2014 - &copy; Al Ponce)	x	
 .	6.jpg	(Fall 2014  - &copy; Al Ponce)	x	
-.	7.jpg	(Fall 2014 - &copy; Al Ponce)	x	
+.	7.jpg	(Big Game, Fall 2014 - &copy; Al Ponce)	x	
 .	8.jpg	(Fall 2014 - &copy; Al Ponce)	x		
 
 
