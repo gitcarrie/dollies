@@ -384,4 +384,11 @@
 .	Aubriana Menendez		
 .	Martha Collins		
 .	Shelby Mynhier		
-.	Jordan Huelskamp		
+.	Jordan Huelskamp	
+
+>>5	mainphotos	no	
+.	Alida Ratteray		
+.	Claudia Aber	
+.	Chloe Koseff	
+.	Shelby Crants	
+.	Dalia Szafer 	

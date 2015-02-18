@@ -76,7 +76,7 @@ if($index == 3) {
 
 
 elseif($tab == 'auditions') {
-	echo '<p align="center"><span class="title">2015-2016 Dollie Auditions</span><br></p>';//<br> and General Audition Information!
+	echo '<p align="center"><span class="title">2016-2017 Dollie Auditions</span><br></p>';//<br> and General Audition Information!
 	if($auditionseason == false) {
 		echo
 			'<div class="futurecontent">For the most up-to-date information on Auditions, visit <a href="https://www.facebook.com/TheStanfordDollies" target="_blank">The Stanford Dollies Facebook Page</a>!</div>';
@@ -84,7 +84,7 @@ elseif($tab == 'auditions') {
 	
 	if($auditionseason == true) {
 		echo 
-			'<div class="futurecontent">Auditions for the 2015-2016 Season will take place in January/February!  
+			'<div class="futurecontent">Auditions for the 2016-2017 Season will take place in January/February!  
 			Please refer to the schedule below for relevant dates and times and browse the <a href="#generalinfo">general information</a> section to learn more about the audition process. Feel free to 
 			<a href="tabs.php?pg=2&ind=2&tab=contacts&dec=' . $decade . '&yea=' . $year . '" target="inline">contact</a> 
 			the current dollies or LSJUMB assistant manager with any questions.
@@ -218,19 +218,19 @@ elseif($page == 0 && $decade== '')  {
 // ***********************************************  FUTURE SECTION MAIN PAGE *********************************
 elseif($page == 2 && $tab = 'main') {
 
-	/*
+	
 	echo '<p align="center">
-	<span class="title">Congratulations to the <br> 2014-2015 Stanford Dollies!</span><br></p>';
+	<span class="title">Congratulations to the <br> 2015-2016 Stanford Dollies!</span><br></p>';
 	echo '<p align="center">';
 		?>  <!--[if IE]><table class="nametable"><tr><td><![endif]--> <?
 		echo '<ul class="nametable">';
-			echo '<li>Erika Nguyen</li>
-				<li>Aubriana Menendez</li>
-				<li>Martha Collins</li>
-				<li>Shelby Mynhier</li>
-				<li>Jordan Huelskamp</li>';
+			echo '<li>Alida Ratteray</li>
+				<li>Claudia Aber</li>
+				<li>Chloe Koseff</li>
+				<li>Shelby Crants</li>
+				<li>Dalia Szafer</li>';
 		echo '</ul><br>'; 
-		*/
+		
 		
 		echo '<center><img src="images/5dollieslogo.jpg"><br></center>'; 
 		
@@ -239,7 +239,7 @@ elseif($page == 2 && $tab = 'main') {
 		<?
 
 	echo '<div class="futurecontent2">
-			 <ul class="futureinfolist"><span class="boldtext">Interested in the 2015-2016 Stanford Dollie Auditions? </span>
+			 <ul class="futureinfolist"><span class="boldtext">Interested in the 2016-2017 Stanford Dollie Auditions? </span>
 			 <li>Explore the above tabs to find more information on <a href="tabs.php?pg=2&ind=2&tab=auditions&dec=' . $decade . '&yea=' . $year . '" target="inline">this year\'s auditions.</a> </li>
 			 <li>Read "The Stanford Daily" articles about the <a href="http://www.stanforddaily.com/cgi-bin/?p=1030158">2009-2010</a> 
 			 Stanford Dollies, and their <a href="http://www.stanforddaily.com/cgi-bin/?p=1030482">debut</a>.
