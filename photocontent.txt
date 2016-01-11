@@ -348,13 +348,13 @@ ______ R	marker for reunion pics for past section
 
 >>7	mainphotos		
 .	image1.jpg	(Dollie Splash, Spring 2007- &copy; Al Ponce)	x			
-.	image2.jpg	(Oakland A's Game, Spring 2007- © Al Ponce)	x	
-.	image5.jpg	(Roll outs with Mama Dollies (06-07), Spring 2007- © Al Ponce)	x	
+.	image2.jpg	(Oakland A's Game, Spring 2007- Â© Al Ponce)	x	
+.	image5.jpg	(Roll outs with Mama Dollies (06-07), Spring 2007- Â© Al Ponce)	x	
 .	image8.jpg	(Christina, Maddie, Katie - Tree week Stunt Power Rangers, Spring 2007)	x	
 .	image1t.jpg	(Spring All Campus (left) and Night out with Tree, John (right), Spring 2007)	image2t.jpg	
 .	18.jpg	(First Football Game - &copy; Robby Beyers)	x	
 .	15.jpg	(SJSU Football Game "Little Suzzies" and Proper Band, Autumn 2007 - &copy; Robby Beyers)	x	
-.	image6.jpg	(SJSU Football Game Field Show "Little Suzzies", Autumn 2007- © Al Ponce)	x	
+.	image6.jpg	(SJSU Football Game Field Show "Little Suzzies", Autumn 2007- Â© Al Ponce)	x	
 .	image4.jpg	(UCLA Football Game, Autumn 2007 - &copy; Robby Beyers)	x	
 .	17.jpg	(Maddie, Christina, Katie - &copy; Robby Beyers)	x	
 .	12.jpg	(Band Reunion, 2007 - &copy; Robby Beyers)	x	
@@ -422,7 +422,7 @@ ______ R	marker for reunion pics for past section
 .	10.jpg	(Fall 2013 - Photo &copy; Robby Beyers)	x	
 
 >>4	mainphotos	
-.	1.jpg	(Big Game, Fall 2014 - &copy; Al Ponce )	x	
+.	1.jpg	(Big Game, Fall 2014 - &copy; Al Ponce)	x	
 .	2.jpg	(Fall 2014 - &copy; Robby Beyers)	x	
 .	3.jpg	(Fall 2014 - &copy; Al Ponce)	x	
 .	4.jpg	(Fall 2014 - &copy; Robby Beyers)	x	
@@ -430,6 +430,16 @@ ______ R	marker for reunion pics for past section
 .	6.jpg	(Fall 2014  - &copy; Al Ponce)	x	
 .	7.jpg	(Big Game, Fall 2014 - &copy; Al Ponce)	x	
 .	8.jpg	(Fall 2014 - &copy; Al Ponce)	x		
+
+>>5	mainphotos	
+.	1.jpg	(Big Game 2015 - &copy; Al Ponce)	x	
+.	2.jpg	(Fall 2015 - &copy; Al Ponce)	x	
+.	3.jpg	(Lining up with drum major Sippy Cup and tree Sarah - &copy; Al Ponce)	x	
+.	4.jpg	(All Right Now - &copy; Robby Beyers)	x	
+.	5.jpg	(Fall 2015 - &copy; Al Ponce)	x	
+.	6.jpg	(Fall 2015   - &copy; Al Ponce)	x	
+.	1t.jpg	(Pier 39 2015   - &copy; Al Ponce)	x	
+.	7.jpg	(Dollie Splash 2015 - &copy; Babacar Ndoye)	x		
 
 
 R ------------------------------------ REUNION PICS ----------------------------------------------------

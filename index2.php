@@ -11,7 +11,7 @@
 	$tab = strip_tags($_GET['tab']);		// Active Tab: 'main','photos','auditions', 'contacts'
 	$selected = strip_tags($_GET['sel']);	// Selected Recipient for contact form when applicable.
 	
-	$curryearstart = '4'; // CHANGE FOR NEW DOLLIE YEAR
+	$curryearstart = '5'; // CHANGE FOR NEW DOLLIE YEAR
 	
 ?>
 <head><title>Stanford Dollies - 

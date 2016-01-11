@@ -219,17 +219,17 @@ elseif($page == 0 && $decade== '')  {
 elseif($page == 2 && $tab = 'main') {
 
 	
-	echo '<p align="center">
-	<span class="title">Congratulations to the <br> 2015-2016 Stanford Dollies!</span><br></p>';
-	echo '<p align="center">';
+	/*echo '<p align="center">
+	<span class="title">Auditions begin in Jan 2016<br></p>';
+	echo '<p align="center">';*/
 		?>  <!--[if IE]><table class="nametable"><tr><td><![endif]--> <?
-		echo '<ul class="nametable">';
+		/*echo '<ul class="nametable">';
 			echo '<li>Alida Ratteray</li>
 				<li>Claudia Aber</li>
 				<li>Chloe Koseff</li>
 				<li>Shelby Crants</li>
 				<li>Dalia Szafer</li>';
-		echo '</ul><br>'; 
+		echo '</ul><br>'; */
 		
 		
 		echo '<center><img src="images/5dollieslogo.jpg"><br></center>'; 

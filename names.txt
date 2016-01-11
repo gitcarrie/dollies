@@ -379,7 +379,7 @@
 .	Courtney Yang	('16)	
 .	Amelia Chen	('16)	
 
->>4	mainphotos	no	
+>>4	mainphotos	sm	
 .	Erika Nguyen		
 .	Aubriana Menendez		
 .	Martha Collins		

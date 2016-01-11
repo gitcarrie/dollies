@@ -391,3 +391,5 @@ t--	Original Choreography:
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 >>4	mainphotos	sm			
 ~	reg	(Aubriana, Erika, Martha, Shelby, Jordan - &copy; Al Ponce)
+>>5	mainphotos	sm			
+~	reg	(Alida, Chloe, Dalia, Shelby, Claudia - &copy; Robby Beyers)
