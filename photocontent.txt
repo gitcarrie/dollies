@@ -439,7 +439,9 @@ ______ R	marker for reunion pics for past section
 .	5.jpg	(Fall 2015 - &copy; Al Ponce)	x	
 .	6.jpg	(Fall 2015   - &copy; Al Ponce)	x	
 .	1t.jpg	(Pier 39 2015   - &copy; Al Ponce)	x	
-.	7.jpg	(Dollie Splash 2015 - &copy; Babacar Ndoye)	x		
+.	7.jpg	(Dollie Splash 2015 - &copy; Babacar Ndoye)	x	
+.	8.jpg	(Rose Bowl 2016 - &copy; Al Ponce)	x	
+	
 
 
 R ------------------------------------ REUNION PICS ----------------------------------------------------
